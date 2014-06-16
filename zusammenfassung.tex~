@@ -1,0 +1,254 @@
+\documentclass[a4paper,11pt, twoside]{article}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Packages
+% System - Sprache
+\usepackage[utf8x]{inputenc}
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{ucs}
+\PrerenderUnicode{äüößÄÜÖ} 
+
+\usepackage[colorlinks=true, pdfborder={0 0 0}, pdftex, breaklinks=true, linkcolor=blue, citecolor=orange , filecolor=purple , urlcolor=purple, linktocpage=true]{hyperref}
+
+% Seiten Layout
+\usepackage{fancyhdr}
+\usepackage[left=2cm,right=3cm,top=2cm,bottom=2cm]{geometry}
+
+% TIKZ
+\usepackage{tikz}
+\usepackage{pgf}
+
+% Inhalt
+\usepackage{wrapfig} %floatfig
+\usepackage{sidecap} %floatfig
+\usepackage{float}
+\usepackage{dpfloat}
+\usepackage{algorithmicx}
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+\usepackage{prettyref}
+\usepackage{titleref}
+\usepackage{listings}
+\usepackage{glossaries}
+\usepackage{nomencl}
+\usepackage{cite}
+\usepackage{graphicx}
+\usepackage{verbatim}
+\usepackage[font=small,labelfont=bf]{caption}
+
+% Mathe
+\usepackage{calc}
+\usepackage{ifthen}
+\usepackage{times}
+\usepackage{amsmath}
+\usepackage{mathtools}
+
+% hyperref
+\usepackage[nohyperlinks%,printonlyused, 
+]{acronym}
+
+\newcommand\mpar[1]{\marginpar {\flushleft\small #1}}
+\setlength{\marginparwidth}{2cm}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Farben
+\definecolor{lightgrey}{gray}{.8}
+\definecolor{lila}{rgb}{0.,0,0.5}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Farben
+\definecolor{lightgrey}{gray}{.8}
+\definecolor{lila}{rgb}{0.,0,0.5}
+
+\begin{document}
+
+\title{
+\textbf{Kosten und Märkte}\\
+Zusammenfassung
+}
+
+\author{Christian Silfang}
+\date{Somersemester 2014}
+
+\parskip1.5ex
+\parindent0em
+
+\pagestyle{empty}
+\maketitle
+\thispagestyle{empty}
+\cleardoublepage
+
+%\noindent\rule[1ex]{\textwidth}{1pt}
+
+%\vspace{1cm}
+\tableofcontents
+\cleardoublepage
+
+\pagestyle{fancy}
+	\renewcommand{\sectionmark}[1]{\markboth{#1}{}}
+	\fancyhf{}
+	\fancyhead[EL]{\thesection { }\leftmark}
+	\fancyhead[OR]{{ }\rightmark}
+	\renewcommand{\headrulewidth}{0.4pt}
+	\pagenumbering{arabic}
+	
+  \fancyfoot[EL]{\textbf{\thepage}}
+	\fancyfoot[OR]{\textbf{\thepage}} 
+	
+	\setcounter{page}{1}
+
+\section{Planung \& Kontrolle}
+
+\subsection{Grundbegriffe}
+
+\subsubsection*{Eigenschaften von Strategien}
+\begin{itemize}
+	\item legen Aktivitätsfelder fest, sind kokurrenzbezogen
+	\item sind konkurrenzbezogen
+	\item nehmen Bezug auf die Umweltsituation und –entwicklung (Chancen und Bedrohungen)
+	\item beziehen sich auf Unternehmensressourcen relativ zur Konkurrenz
+	\item zeigen Einstellungen/Wertvorstellungen der Entscheidungsträger
+	\item auf gesamtes Geschäftsfeld ausgerichtet
+	\item hohe Bedeutung für Vermögens-/Ertragslage des Unternehmens
+	\item weitreichende Konsequenzen
+	\item zukunftsorientiert
+	\item können (!) einem systematischen Planungsprozeß entspringen
+\end{itemize}
+
+\subsubsection*{Leitfragen}
+\begin{enumerate}
+	\item Tätigkeit in welchen Geschäftsfeldern?
+	\item Wie soll Wettbewerb in Geschäftsfeldern bestritten werden?
+	\item Was ist die längerfristige Erfolgsbasis (Kernkompetenz)?
+\end{enumerate}
+
+\textbf{Gesamtunternehmen:} Gesamtunternehmensstrategie (Corporate Strategy)\\
+\textbf{Geschäftsfeld:} Wettbewerbsstrategie (Business Strategy)
+
+\subsection{Umweltanalyse}
+
+Umweltanalyse ist Kernstück der strategischen Analyse und ermittelt Chancen/Bedrohungen
+
+\subsubsection*{Betrachtungen}
+$\rightarrow$ Wettbewerbsumfeld/Geschäftsfeld: Analyse der Branchenstruktur nach \footnote{
+%% Fußnote
+\textbf{Five-Forces von Porter}: Markterfolg hängt im wesentlichen von Marktstruktur ab (Seite 28/Abbildung):
+\begin{enumerate}
+	\item Wettbewerber einer Branche (Rivalen)
+	\item Potenzielle neue Anbieter (Bedrohung)
+	\item Ersatzprodukteb(Substitutionsgefahr)
+	\item Lieferanten (Verhandlungsstärke)
+	\item Abnehmer (Verhandlungsmacht)
+\end{enumerate}
+}{\textit{Porter}}
+
+\texttt{GRAFIK}
+
+$\rightarrow$ Betrachtet allgemeine Umwelt:
+\begin{itemize}
+	\item Makroökonomische Umwelt
+	\begin{itemize}
+		\item Konjunkturentwicklung, Wechselkurse, Entwicklung des Arbeitsmarktes, wirtschaftliche Entwicklung (global/nach Region)
+	\end{itemize}
+	\item Technologische Umwelt
+	\begin{itemize}
+		\item Entwicklung der Technologie als wesentlicher Treiber, S-Kurven-Modell (Technologielebenszyklus)
+	\end{itemize}
+	\item Politisch-rechtliche Umwelt
+	\begin{itemize}
+		\item politische Entwicklung auf allen Ebenen, Zölle/Subventionen
+		\item internationale Tendenzen (Verschuldung, 3. Welt, Kyoto, Osteuropa), Krisen
+	\end{itemize}
+	\item Soziokulturelle Umwelt
+	\begin{itemize}
+		\item Demographische Entwicklung, Wertewandel
+	\end{itemize}
+	\item Natürliche Umwelt
+	\begin{itemize}
+		\item Benötigte Ressourcen (Reichweite/Verteilung), Entsorgung
+	\end{itemize}
+\end{itemize}
+
+\subsubsection*{Vorgehensweise}
+Bestimmung von relevanten Schlüsselgrößen und Prognosen über deren Entwicklung. Analyse von Querverbindungen über Entwurf/Bewertung von alternativen Szenarien. Festellung der Prämisse für weitere Planungsprozesse.
+
+\subsection{Unternehmensanalyse}
+
+Ermittlung der eigenen Stärken und Schwächen, dazu sind zwei Sichtweisen erforderlich:
+\begin{enumerate}
+	\item \textbf{Wertschöpfungssicht:} eigene Stärken/Schwähen relativ zur Konkurrenz
+	\item \textbf{Kundensicht:} kritische Erfolgsfaktoren aus Sicht des Marktes, eigenes Profil vs. Profil der Wettbewerber
+\end{enumerate}
+$\rightarrow$ beide Sichtweisen ergeben \textbf{Potentiale und Wettbewerbsvorteile}(Vgl. Wertkette nach \textit{Porter})
+	%% Randnotiz	
+	\mpar{\textcolor{red}{Abschätzung der eigenen preislichen Lage auf dem Markt}}
+\texttt{GRAFIK}
+
+Erfolgsfaktoren können in verschiedene Faktoren eingeteilt werden:
+\begin{itemize}
+	\item Finanzielle
+	\item Physische $\rightarrow$ häufiger Erfolgsfaktor
+	\item Humane $\rightarrow$ häufiger Erfolgsfaktor
+	%% Randnotiz	
+	\mpar{\textcolor{red}{Monopolstellung bei vorhanden Ressourcen ist immer wertvoll!}}
+	\item Organisatorische
+	\item Technologische
+	\item Finanzielle
+\end{itemize}
+%% Randnotiz	
+\mpar{\textcolor{red}{Ressourcen die jeder hat, sind nicht wertvoll!}}
+
+\subsubsection*{Merkmale "`strategischer"' Ressourcen}
+\begin{itemize}
+	\item Einmaligkeit: knappe Ressourcen, monopolähnlicher Zugang  
+	\item Eingeschränkte Imitierbarkeit: Zusammenhänge schwer erkennbar, historisch gewachsene Ressourcen/Situationen, soziale Komplexität	
+	\item Fehlende Substituierbarkeit: Ressourcen sind nicht durch andere ersetzbar
+	\item Wert für die Strategie: Ressourcen müssen gewinnbringend zur Steigerung der Wettbewerbsfähigkeit verwendet werden können
+\end{itemize}
+
+\subsubsection*{Möglichkeiten zur Selbstreflektion}
+%% Randnotiz	
+\mpar{\textcolor{red}{Erhebungen durch Kundenbefragung ODER Vergleich mit Konkurrenz}}
+\[ \left.
+\begin{array}{l l}
+\text{\textbf{S}} & \quad \text{trength}\\
+\text{\textbf{W}} & \quad \text{eakness}\\
+\text{\textbf{O}} & \quad \text{portunities}\\
+\text{\textbf{T}} & \quad \text{reatments}
+\end{array} 
+\right\} \to \text{SWOT-Analyse} \quad \quad	\begin{array}{c|c}
+					  	 S & W \\
+					  	 \hline
+					  	 O & T
+						\end{array} \]
+
+Teilweise Betrachtung aus Sicht des Kunden, dazu Ermittlung kritischer Erfolgsfaktoren wie Qualität, Service, Flexibilität, Termintreue und Preis.
+
+\subsection{Strategische Optionen}
+\texttt{GRAFIK}\\
+%% Randnotiz	
+\mpar{\textcolor{red}{Nischenmarkt: schwierig, falls besetzt}}
+Es existieren \underline{drei} zentrale Fragen zur Ermittlung der strategischen Optionen:
+\begin{enumerate}
+	\item Wo soll konkurriert werden? (Ort des Wettbewerbs)
+	\item Wie soll konkurriert werden? (Regeln des Wettbewerbs: Rabatte, Preisnachlass)
+	\item Mit welcher Stoßrichtung soll konkurriert werden? (Schwerpunkt des Wettbewerbs: Massen- oder Billigproduktion)
+\end{enumerate}
+
+Überlegungen nur sinnvoll wenn Unternehmen in mehreren Geschäftsfeldern tätig ist oder eine Erweiterung auf mehrere geschäftsfelder geplant wird. 
+Die möglichen Optionen sind:
+
+\subsubsection*{Diversifikation} 
+\texttt{GRAFIK}
+
+\subsubsection*{Portfolio-Strategien} 
+\texttt{GRAFIK}
+
+\subsubsection*{Internationalisierung} 
+
+\subsubsection*{Kernkompetenzorientierung} 
+
+
+\end{document} 
