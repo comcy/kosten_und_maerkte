@@ -14,7 +14,7 @@
 
 % Seiten Layout
 \usepackage{fancyhdr}
-\usepackage[left=2cm,right=3cm,top=2cm,bottom=2cm]{geometry}
+\usepackage[left=2cm,right=3cm,top=3cm,bottom=2.5cm]{geometry}
 
 % TIKZ
 \usepackage{tikz}
@@ -227,7 +227,7 @@ Erfolgsfaktoren können in verschiedene Faktoren eingeteilt werden:
 Teilweise Betrachtung aus Sicht des Kunden, dazu Ermittlung kritischer Erfolgsfaktoren wie Qualität, Service, Flexibilität, Termintreue und Preis.
 
 \subsection{Strategische Optionen}
-\texttt{GRAFIK}\\
+
 %% Randnotiz	
 \mpar{\textcolor{red}{Nischenmarkt: schwierig, falls besetzt}}
 Es existieren \underline{drei} zentrale Fragen zur Ermittlung der strategischen Optionen:
@@ -237,18 +237,118 @@ Es existieren \underline{drei} zentrale Fragen zur Ermittlung der strategischen 
 	\item Mit welcher Stoßrichtung soll konkurriert werden? (Schwerpunkt des Wettbewerbs: Massen- oder Billigproduktion)
 \end{enumerate}
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Bild: Diversifikation
+\begin{figure}[h]
+ \begin{center}
+   \includegraphics[scale=0.3]{bilder/strategische_optionen.png}
+ \end{center}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 Überlegungen nur sinnvoll wenn Unternehmen in mehreren Geschäftsfeldern tätig ist oder eine Erweiterung auf mehrere geschäftsfelder geplant wird. 
 Die möglichen Optionen sind:
 
 \subsubsection*{Diversifikation} 
-\texttt{GRAFIK}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Bild: Diversifikation
+\begin{figure}[h]
+ \begin{center}
+   \includegraphics[scale=0.3]{bilder/diversifikation.png}
+ \end{center}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newpage
 
 \subsubsection*{Portfolio-Strategien} 
-\texttt{GRAFIK}
+
+\textbf{?}: hohes Wachstum, aber relativ viel Konkurrenz\\
+\textbf{$\star$}: großer Anteil und schnell wachsender Markt (bspw. Tablet-Produkte)\\
+\textbf{Desinvestition}: schlecht, kein Wachstum und keine Anteile am Markt (Porter: "`nicht wachsender Markt"')\\ 
+\textbf{Abschöpfung}: hoher Anteil, Wachstum stagniert ("`Milchkuh melken"')
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Bild: Portfolio
+\begin{figure}[h]
+ \begin{center}
+   \includegraphics[scale=0.3]{bilder/portfolio.png}
+ \end{center}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{center}
+Alle 3 Diagramme müssen zueinander ins Verhältnis gebracht werden! $\downarrow$
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Bild: Portfolio
+\begin{figure}[h]
+ \begin{center}
+   \includegraphics[scale=0.3]{bilder/portfolio_ext.png}
+ \end{center}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \subsubsection*{Internationalisierung} 
+Ausdehnung der Geschäftstätigkeiten über Ländergrenzen hinweg, i.d.R. gleiche Produkt
+
+National agierendes Unternehmen\\ 
+\textit{Wie soll Markteintritt erfolgen?}
+\begin{itemize}
+	\item Export
+	\item Lizenzvergabe oder Franchising
+	\item Direktinvestition oder Akquisition
+\end{itemize}
+
+%% Randnotiz	
+\mpar{\textcolor{red}{Steuern/Gesetzte nehmen Einfluss}}
+International agierendes Unternehmen\\
+\textit{Unterscheidung}\\
+\begin{itemize}
+	\item Globalisierung: das selbe Produkt und die selbe Wettbewerbsstrategie (diverse Ausführungen)
+	\item Regionalisierung: Differenzierung des Produkts/Strategie
+\end{itemize}
 
 \subsubsection*{Kernkompetenzorientierung} 
+Übergreifendes Qualifikationspotential, welches in verschiedenen Geschäftsfeldern den Aufbau von Wettbewerbsvorteilen ermöglicht
 
+Merkmale von Kernkompetenzen:
+\begin{itemize}
+	\item Unternehmensweiter Geltungsbereich
+	\item Dauerhafte Quelle von Wettbewerbsvorteilen
+	\item historische Entwicklung
+	\item kollektives Wissen
+	\item Ressourcenwettbewerb
+\end{itemize}
+$\rightarrow$ Potentiale ausnutzen
+
+\subsection{Strategische Wahl}
+Auswahl der für das Unternehmen optimalen Strategie. Hierzu werden Beurteilungsgrößen herangezogen:
+\begin{itemize}
+	\item ökonomische Ziele
+	\item Machbarkeit
+	\item Akzeptanz
+	\item ethische Vertretbarkeit
+\end{itemize}
+Dabei können verschiedene Probleme auftreten. Erfolge einer Strategie sind immer unsicher und ökonomische Auswirkungen immer nur schätzbar. Der "`Wert"' einer Strategie teilweise nicht quantifizierbar. Auswahlprozess ist komplex und nur teilweise rational.
+ 
+\subsubsection*{Einflussfaktoren}
+
+\texttt{GRAFIK}
+
+\subsection{Strategieimplementation}
+\underline{Drei} verschieden Punkte:
+
+\subsubsection{Strategische Maßnahmen}
+\textit{"`structure follows strategy"'}\\
+Kontingenztheorethischer Ausgangspunkt
+
+
+\subsubsection{Strategische Programme}
+\textit{"`multidimensionale"' Zielsetzung}\\
+Konkretisierung der Strategien in die einzelnen organisatorischen Bereiche und Ermittlung der kritischen Bereiche
+
+
+\subsubsection{Menschen/Systeme}
+\textit{"`strategy follows structure/personnel policy"'}\\
+Strategische Personalplanung und -entwicklung sowie Problematik der Unternehmenskultur
 
 \end{document} 
