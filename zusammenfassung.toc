@@ -6,6 +6,11 @@
 \contentsline {subsection}{\numberline {1.4}Strategische Optionen}{3}{subsection.1.4}
 \contentsline {subsection}{\numberline {1.5}Strategische Wahl}{5}{subsection.1.5}
 \contentsline {subsection}{\numberline {1.6}Strategieimplementation}{6}{subsection.1.6}
-\contentsline {subsubsection}{\numberline {1.6.1}Strategische Ma\IeC {\ss }nahmen}{6}{subsubsection.1.6.1}
-\contentsline {subsubsection}{\numberline {1.6.2}Strategische Programme}{6}{subsubsection.1.6.2}
-\contentsline {subsubsection}{\numberline {1.6.3}Menschen/Systeme}{6}{subsubsection.1.6.3}
+\contentsline {subsection}{\numberline {1.7}Strategische Kontrolle}{7}{subsection.1.7}
+\contentsline {subsection}{\numberline {1.8}Zusammenh\IeC {\"a}nge der strategischen und operativen Planung}{7}{subsection.1.8}
+\contentsline {section}{\numberline {2}Absatz}{8}{section.2}
+\contentsline {subsection}{\numberline {2.1}Grundlagen}{8}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Marktforschung}{9}{subsection.2.2}
+\contentsline {section}{\numberline {3}Kosten- und Erfolgscontrolling}{11}{section.3}
+\contentsline {subsection}{\numberline {3.1}Grundlagen und Grundbegriffe}{11}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Kostenartenrechnung}{11}{subsection.3.2}
