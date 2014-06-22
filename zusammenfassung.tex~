@@ -106,7 +106,6 @@ Zusammenfassung
 \subsubsection*{Eigenschaften von Strategien}
 \begin{itemize}
 	\item legen Aktivitätsfelder fest, sind kokurrenzbezogen
-	\item sind konkurrenzbezogen
 	\item nehmen Bezug auf die Umweltsituation und –entwicklung (Chancen und Bedrohungen)
 	\item beziehen sich auf Unternehmensressourcen relativ zur Konkurrenz
 	\item zeigen Einstellungen/Wertvorstellungen der Entscheidungsträger
@@ -119,9 +118,9 @@ Zusammenfassung
 
 \subsubsection*{Leitfragen}
 \begin{enumerate}
-	\item Tätigkeit in welchen Geschäftsfeldern?
-	\item Wie soll Wettbewerb in Geschäftsfeldern bestritten werden?
-	\item Was ist die längerfristige Erfolgsbasis (Kernkompetenz)?
+	\item \textit{Tätigkeit in welchen Geschäftsfeldern?}
+	\item \textit{Wie soll Wettbewerb in Geschäftsfeldern bestritten werden?}
+	\item \textit{Was ist die längerfristige Erfolgsbasis (Kernkompetenz)?}
 \end{enumerate}
 
 \textbf{Gesamtunternehmen:} Gesamtunternehmensstrategie (Corporate Strategy)\\
@@ -232,9 +231,9 @@ Teilweise Betrachtung aus Sicht des Kunden, dazu Ermittlung kritischer Erfolgsfa
 \mpar{\textcolor{red}{Nischenmarkt: schwierig, falls besetzt}}
 Es existieren \underline{drei} zentrale Fragen zur Ermittlung der strategischen Optionen:
 \begin{enumerate}
-	\item Wo soll konkurriert werden? (Ort des Wettbewerbs)
-	\item Wie soll konkurriert werden? (Regeln des Wettbewerbs: Rabatte, Preisnachlass)
-	\item Mit welcher Stoßrichtung soll konkurriert werden? (Schwerpunkt des Wettbewerbs: Massen- oder Billigproduktion)
+	\item \textit{Wo soll konkurriert werden?} (Ort des Wettbewerbs)
+	\item \textit{Wie soll konkurriert werden?} (Regeln des Wettbewerbs: Rabatte, Preisnachlass)
+	\item \textit{Mit welcher Stoßrichtung soll konkurriert werden?} (Schwerpunkt des Wettbewerbs: Massen- oder Billigproduktion)
 \end{enumerate}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -332,23 +331,395 @@ Dabei können verschiedene Probleme auftreten. Erfolge einer Strategie sind imme
  
 \subsubsection*{Einflussfaktoren}
 
-\texttt{GRAFIK}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Bild: Portfolio
+\begin{figure}[h]
+ \begin{center}
+   \includegraphics[scale=0.3]{bilder/strategische_einflussfaktoren.png}
+ \end{center}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \subsection{Strategieimplementation}
 \underline{Drei} verschieden Punkte:
 
-\subsubsection{Strategische Maßnahmen}
+\subsubsection*{Strategische Maßnahmen}
 \textit{"`structure follows strategy"'}\\
 Kontingenztheorethischer Ausgangspunkt
 
 
-\subsubsection{Strategische Programme}
+\subsubsection*{Strategische Programme}
 \textit{"`multidimensionale"' Zielsetzung}\\
 Konkretisierung der Strategien in die einzelnen organisatorischen Bereiche und Ermittlung der kritischen Bereiche
 
 
-\subsubsection{Menschen/Systeme}
+\subsubsection*{Menschen/Führungssysteme}
 \textit{"`strategy follows structure/personnel policy"'}\\
 Strategische Personalplanung und -entwicklung sowie Problematik der Unternehmenskultur
+
+$\rightarrow$ Balanced Scorecard
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Bild: Portfolio
+\begin{figure}[h]
+ \begin{center}
+   \includegraphics[scale=0.3]{bilder/strategische_balancedscorecard.png}
+ \end{center}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Bild: Portfolio
+\begin{figure}[h]
+ \begin{center}
+   \includegraphics[scale=0.3]{bilder/strategische_balancedscorecard2.png}
+ \end{center}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsubsection*{Strategische Organisationsgestaltung}
+
+\begin{tabular}{|l|l|}
+\hline 
+Einprodukt & Funktional/zentralisiert \\ 
+\hline 
+Verwandte Diversifikation & Divisional/dezentralisiert \\ 
+\hline 
+Konglomerate Diversifikation & Holding/stark dezentralisiert \\ 
+\hline 
+\end{tabular} 
+
+Hat einen situativen Ansatz (Kontingent Ansatz). Bildung strategischer Geschäftseinheiten (SGE) in Anlehnung an die strategischen Geschäftsfelder. Mit Beachtung der Kernkompetenzen.
+
+\subsubsection*{Strategische Personalpolitik}
+Unterliegen Aspekten der Unternehmenskultur. Rückschlüsse der Personalentwicklung auf strategische Planung.
+
+\subsection{Strategische Kontrolle}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Bild: Portfolio
+\begin{figure}[h]
+ \begin{center}
+   \includegraphics[scale=0.3]{bilder/strategische_kontrolle1.png}
+ \end{center}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Bild: Portfolio
+\begin{figure}[h]
+ \begin{center}
+   \includegraphics[scale=0.3]{bilder/strategische_kontrolle2.png}
+ \end{center}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Zusammenhänge der strategischen und operativen Planung}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Bild: Portfolio
+\begin{figure}[h]
+ \begin{center}
+   \includegraphics[scale=0.3]{bilder/zusammenhang_strop.png}
+ \end{center}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newpage
+
+\section{Absatz}
+
+\subsection{Grundlagen}
+Dient der Leistungsverwertung: Suche nach Abnehmern, Physische Distribution der Ware
+
+x-Rs der Absatzwirtschaft:
+\begin{itemize}
+	\item richtige Ware
+	\item richtige Menge
+	\item richtige Qualität
+	\item richtige Zeit
+	\item richtiger Ort
+\end{itemize}
+$\rightarrow$ steigender Stellenwert des Absatzes
+
+Minimale Fehlmengenkosten + Minimale Bestandskosten $\rightarrow$ Formel
+\[
+\text{Servicegrad} = \frac{\text{Anzahl der befriedigten Bedarfsanforderungen}}{\text{Anzahl aller Bedarfsanforderungen}} * 100\%
+\]
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Bild: Portfolio
+\begin{figure}[h]
+ \begin{center}
+   \includegraphics[scale=0.3]{bilder/servicegrad.png}
+ \end{center}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Erweiterung des Absatzbegriffs $\rightarrow$ Marketing\\ 
+(= Konzeption der Unternehmensführung, die zur Erreichung der Unternehmensziele alle betrieblichen Aktivitäten konsequent auf die Erfordernisse des Absatzmarktes ausrichtet)
+
+Aspekte des Marketings:
+\begin{itemize}
+	\item \textbf{Maxime}: Kunde als Ziel der Bemühungen
+	\item  \textbf{Konzept}: geplanter und systematischer Einsatz der Instrumente zur Marktbeeinflussung und Gestaltung
+	\item \textbf{Methode}: systematische Entscheidungsfindung und planmäßiges Vorgehen unter Einsatz wissenschaftlicher Methoden
+\end{itemize}
+
+\textbf{Entwicklung von Merketingstrategien/Wachstumsstrategien} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Bild: Portfolio
+\begin{figure}[h]
+ \begin{center}
+   \includegraphics[scale=0.3]{bilder/marketingstrategien.png}
+ \end{center}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\textbf{Marktdurchdringung} (Abschöpfen des Marktpotentials)\\
+...durch Erhöhung der Produktverwendung bei bestehenden Kunden\\
+...durch Gewinnung von neuen Kunden\\
+...durch Gewinnung von "`nicht"'-Verwendern\\
+
+\textbf{Marktentwicklung} (Platzieren vorhandener Produkte in neuen Märkten)\\
+Regionale Ausdehnung, neue Zielgruppen und Preisdifferenzierung
+
+\textbf{Produktentwicklung} (Entwicklung neuer Produkte)\\
+Innovationen und neue Produktvarianten
+
+%% Randnotiz	
+\mpar{\textcolor{red}{risikoreichste Wachstumstrategie}}
+
+\textbf{Diversifikation} (Expansion in neue Geschäftsbereiche)\\
+Horizontal: Erweiterung des Produktprogramms, mit ursprünglichem in sachlichem Zusammenhang\\
+Vertikal: Vergrößerung der Tiefe des Produktprogramms (Vorwärtsintegration $\leftrightarrow$ Rückwärtsintegration)\\
+Lateral: gänzlich neue Markt- und Produktgebiete (risikoreich)\\
+
+\subsection{Marktforschung}
+Beschaffung, Aufbereitung und Analyse von Informationen über Absatzmärkte zur Festlegung des optimalen Marketing-Mix
+
+\textbf{Marketing-Mix}: (=optimale Abstimmung der Marketing-Instrumente zur Erreichnung der Ziele)\\
+Produkt-. Preis-, Distributions- und Werbepolitik
+
+\subsubsection*{Aufgaben}
+
+\textbf{Analyse}
+\begin{itemize}
+	\item Erforschung der Grundstruktur des Marktes
+	\item Zeitpunktbezogen 
+\end{itemize}
+
+\textbf{Beobachtung}
+\begin{itemize}
+	\item dynamische Komponente
+	\item wesentliche Markteigenschaften (z.B. Konsolidierungen)
+	\item A-Teile 
+\end{itemize}
+
+\textbf{Prognose}
+\begin{itemize}
+	\item Antizipation der zukünftigen Entwicklung wichtiger Trends (z.B. Substitutionsgüter)
+	\item problematisch
+\end{itemize}
+
+\subsubsection*{Vorgehen}
+\textbf{1. Zieldefinition}\\
+Zweck der Untersuchung, Art, Ausmaß und Qualität der zu beschaffenden Information
+
+\textbf{2. Wahl des Forschungsdesigns} - Grundsätzlicher Aufbau der Studie:
+\begin{itemize}
+	\item Explorativ (Gewinnung qualitativer Daten als Basisinformation)
+	%% Randnotiz	
+\mpar{\textcolor{red}{Beispiel: "`Welche Eigenschaften muß eine Kaffeesorte für ältere Menschen aufweisen?"'}}
+	\item Deskriptiv (Quantitative Beschreibung von Marktgegebenheiten, z.B. Absatzzahlen und Entwicklung des Marktanteils)
+	\item Kausalanalytisch (Zusammenhänge zwischen Marktgegebenheiten, z.B. Wirkung der Verpackungsgestaltung auf den Marktanteil)
+\end{itemize}
+
+\textbf{3. Informationsgewinnung} - Wahl der Methode und des Umfangs der Untersuchung:\\
+Primärforschung und Sekundärforschung
+
+\textbf{4. Auswertung der Information} - Zielbezogene Analyse der erhobenen Daten:\\
+Univariante Verfahren: Ermittlung einer Variablen (z.B. Kundenprofil eines Supermarkts)\\
+Multivariante Verfahren: Ermittlung der Zusammenhänge mehrerer Variablen (z.B. Ladenöffnungszeiten und Eigenschaften der Käufergruppe)
+
+\textbf{5. Ableiten von Konsequenzen auf den Marketing-Mix}
+
+\subsubsection*{Methoden}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Bild: Portfolio
+\begin{figure}[h]
+ \begin{center}
+   \includegraphics[scale=0.3]{bilder/methoden.png}
+ \end{center}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\textbf{Befragung} - Festzulegen sind:
+\begin{itemize}
+	\item Zielgruppe
+	\item Befragungsgegenstand
+	\item Art der Befragung
+	\item Standardisierung
+	\item Häufigkeit
+\end{itemize}
+
+\textbf{Beobachtung} - "`Zielgerichtete und planmäßige Erfassung von sinnlich wahrnehmbaren Sachverhalten im Augenblick ihres Auftretens"'\\
+Festzulegen sind:
+\begin{itemize}
+	\item Bewusstseinsgrad des Beobachteten
+	\item Partizipationsgrad des Beobachteten
+	\item Standardisierungsgrad
+	\item Wahrnehmungs- und Registrierungsform
+\end{itemize}
+
+\textbf{Experiment} - Studie von Sachverhalten unter vorher exakt festgelegten Rahmenbedingungen\\
+$\rightarrow$ Isolierte Variation eines bestimmten Faktors
+
+\textbf{Panel} - wiederholte Befragung eins feststehenden Personenkreises
+$\rightarrow$ Ermittlung der Veränderungen des Zielgruppenverhaltens im Zeitablauf
+
+\subsection{Instrumente}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Bild: Portfolio
+\begin{figure}[h]
+ \begin{center}
+   \includegraphics[scale=0.3]{bilder/instrumente_produktpolitik.png}
+ \end{center}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\subsubsection*{Produktpolitik}
+Umfasst alle Überlegungen und Entscheidungen marktlicher Natur, die sich auf die Gestaltung von Art und Beschaffenheit der angebotenen Güter beziehen
+
+\textbf{Leitfragen}\\
+\textit{Welche Art von Erzeugnissen wünscht der Markt jetzt und in Zukunft?}\\
+\textit{Welche Beschaffenheit müssen die Güter in den Augen der Nachfrager aufweisen?}
+
+\textbf{Produktgestaltung}\\
+Produktneuheit, Betriebsinnovation (Konkurrenzprodukt existiert bereits), Produktvariation
+
+\textbf{Bedeutung}\\
+\begin{itemize}
+	\item hohe Bedeutung, da bedeutsam für den zukünftigen Unternehmenserfolg
+	\item Risiko bei Nachahmung durch die Konkurrenz
+\end{itemize}
+$\rightarrow$ ca. 75\% aller Umsätze mit Produkt\\
+$\rightarrow$ ca. 80\% der Neueinführungen enden als Flop
+
+\textbf{Gestaltungsbereiche}\\
+"`Innere Werte"'(Material, Verarbeitungs- und Funktionsqualität) und Äußeres (Design des Produktes/Verpackung)
+
+\textbf{Wertanalyse}\\
+Betrachtet Produkt als Bündel von Funktionen, gesucht ist die beste Kombination der Eigenschaften aus Sicht des Verbrauchers\\
+Zentrale Fragen:\\
+\textit{Wie viel kostet eine bestimmte Funktion des Produktes?}\\
+\textit{Wo lassen sich Kosten einsparen?}
+\textit{Welche Eigenschaft/Funktion lässt sich mit geringem Aufwand ändern?}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Bild: Portfolio
+\begin{figure}[h]
+ \begin{center}
+   \includegraphics[scale=0.3]{bilder/wertanalyse.png}
+ \end{center}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\textbf{Kritik}\\
+Produktinnovationen per se schaffen keinen dauerhaften Wettbewerbsvorteil (Innovationsfalle)\\
+Geplante physische Veralterung\\
+Variationen im Produkt oder seinem Design ziehen Änderungen in der Produktion nach sich\\
+"`Etikettenschwindel"'
+
+\subsubsection*{Preispolitik}
+Alle Entscheidungen, die sich auf das Entgelt für die Angebotsleistung beziehen und damit zusammenhängend auf die Konditionen, unter denen das Entgelt zu entrichten ist
+
+\textbf{Umfang}
+\begin{itemize}
+	\item Fixierung des Listenpreises
+	\item Zahlungs- und Lieferungsbedingungen
+	\item die mit dem Kauf zusammenhängenden Serviceleistungen
+	\item Leistungen im After Sales Bereich
+\end{itemize}
+
+\textbf{Bedeutung}
+\begin{itemize}
+	\item Zunehmende Deregulierung
+	\item Internationalisierung
+	\item Produktdifferenzierung
+\end{itemize}
+
+\textbf{Kostenorientierte Preispolitik im Handel}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Bild: Portfolio
+\begin{figure}[h]
+ \begin{center}
+   \includegraphics[scale=0.3]{bilder/kostenorientierte_preispolitik.png}
+ \end{center}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\textbf{Kostenorientierte Preispolitik beim Hersteller}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Bild: Portfolio
+\begin{figure}[h]
+ \begin{center}
+   \includegraphics[scale=0.3]{bilder/kostenorientierte_preispolitik2.png}
+ \end{center}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\textbf{Möglichkeiten der Preisbeeinflussung}
+\begin{itemize}
+	\item Preisdifferenzierung (Abnehmer-/Anbieterstufe, Niveau der Einkaufsstätte)
+	\item Zu- und Abschläge (Mindermengenzuschlag)
+	\item Rabatte (Natural-/Funktionsrabatt, Mengenrabatt und Staffelpreise)
+	\item Bonus
+\end{itemize}
+
+\textbf{Preisgestaltung - Zahlungsbedingungen/Finanzierungsangebote}\\
+Die Zahlungsbedingungen legen den Zeitpunkt fest, an dem der Kunde die Zahlung zu erbringen hat.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Bild: Portfolio
+\begin{figure}[h]
+ \begin{center}
+   \includegraphics[scale=0.3]{bilder/preisgestaltung.png}
+ \end{center}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\textbf{Ziele/Anlässe}\\
+Veränderungen der Absatzmengen oder -zeiten, Selektion von Abnehmergruppen oder Veränderungen in der Bedarfs- oder Qualitätsstruktur der Nachfrager
+
+\textbf{Strategien}\\
+Hochpreis, Niedrigpreis und Abschöpfungsstrategien
+
+
+
+
+
+
+
+
+
+
+
+
+
+\newpage
+\section{Kosten- und Erfolgscontrolling}
+
+\subsection{Grundlagen und Grundbegriffe}
+
+\subsubsection*{Rechnungswesen}
+Unterscheidung zwischen:
+\begin{itemize}
+	\item Externes Rechnungswesen: Finanz-, Geschäftsbuchhaltung, Jahresabschluss
+	\item Internes Rechnungswesen Kosten- und Leistungsrechnung (interne Entscheidungsprozesse)
+\end{itemize}
+
+Aufgaben der Kosten- und Leistungsrechnung:\\
+Erfassung anfallender Kosten und verursachungsgerechte Zurechnung der Kosten zu den Kostenträgern.
+
+\subsection{Kostenartenrechnung}
 
 \end{document} 
