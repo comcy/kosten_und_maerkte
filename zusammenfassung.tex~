@@ -929,6 +929,22 @@ Erschaffung eines selbst genutzten Patents
 
 \subsection{Kostenartenrechnung}
 
+\subsubsection*{Aufgaben und Gliederung der Kostenarten}
+
+\textbf{Aufgaben}\\
+Vollständige und überschneidungsfreie Erfassung der Kosten sowie Gliederung der Kostenarten bis zur Informationsweitergabe ans Kostenstellen- und Kostenträgerrechnung 
+
+\textbf{Gliederung nach Art der verbrauchten Produktionsfaktoren (Primäre Kosten)}\\
+\begin{itemize}
+	\item Personalkosten (Löhn und Gehälter)
+	\item Materialkosten (Roh- und Hilfsstoffe)
+	\item Kalkulatorische Abschreibungen (Maschinen und Gebäude)
+	\item Kalkulatorische Zinsen (Kapitalkosten)
+	\item Fremdleistungskosten (Beratungskosten, Speditionskosten)
+	\item Wagniskosten (Garantiekosten)
+	\item Steuern (Grundsteuer)
+\end{itemize}
+
 
 
 \end{document} 
