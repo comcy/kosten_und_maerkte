@@ -412,8 +412,9 @@ Unterliegen Aspekten der Unternehmenskultur. Rückschlüsse der Personalentwickl
  \end{center}
 \end{figure}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Zusammenhänge der strategischen und operativen Planung}
+\newpage
 
+\subsection{Zusammenhänge der strategischen und operativen Planung}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% Bild: Portfolio
 \begin{figure}[h]
@@ -423,8 +424,10 @@ Unterliegen Aspekten der Unternehmenskultur. Rückschlüsse der Personalentwickl
 \end{figure}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\newpage
 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newpage
 \section{Absatz}
 
 \subsection{Grundlagen}
@@ -588,7 +591,7 @@ $\rightarrow$ Ermittlung der Veränderungen des Zielgruppenverhaltens im Zeitabl
 \end{figure}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\subsubsection*{Produktpolitik}
+\subsubsection{Produktpolitik}
 Umfasst alle Überlegungen und Entscheidungen marktlicher Natur, die sich auf die Gestaltung von Art und Beschaffenheit der angebotenen Güter beziehen
 
 \textbf{Leitfragen}\\
@@ -624,13 +627,15 @@ Zentrale Fragen:\\
 \end{figure}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\textbf{Kritik}\\
-Produktinnovationen per se schaffen keinen dauerhaften Wettbewerbsvorteil (Innovationsfalle)\\
-Geplante physische Veralterung\\
-Variationen im Produkt oder seinem Design ziehen Änderungen in der Produktion nach sich\\
-"`Etikettenschwindel"'
+\textbf{Kritik}
+\begin{itemize}
+	\item Produktinnovationen per se schaffen keinen dauerhaften Wettbewerbsvorteil (Innovationsfalle)
+	\item Geplante physische Veralterung
+	\item Variationen im Produkt oder seinem Design ziehen Änderungen in der Produktion nach sich
+	\item "`Etikettenschwindel"'
+\end{itemize}
 
-\subsubsection*{Preispolitik}
+\subsubsection{Preispolitik}
 Alle Entscheidungen, die sich auf das Entgelt für die Angebotsleistung beziehen und damit zusammenhängend auf die Konditionen, unter denen das Entgelt zu entrichten ist
 
 \textbf{Umfang}
@@ -657,6 +662,7 @@ Alle Entscheidungen, die sich auf das Entgelt für die Angebotsleistung beziehen
  \end{center}
 \end{figure}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newpage 
 
 \textbf{Kostenorientierte Preispolitik beim Hersteller}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -687,39 +693,242 @@ Die Zahlungsbedingungen legen den Zeitpunkt fest, an dem der Kunde die Zahlung z
 \end{figure}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\textbf{Ziele/Anlässe}\\
-Veränderungen der Absatzmengen oder -zeiten, Selektion von Abnehmergruppen oder Veränderungen in der Bedarfs- oder Qualitätsstruktur der Nachfrager
+\textbf{Ziele/Anlässe}
+\begin{itemize}
+	\item Veränderungen der Absatzmengen oder -zeiten
+	\item Selektion von Abnehmergruppen
+	\item Veränderungen in der Bedarfs- oder Qualitätsstruktur der Nachfrager 
+\end{itemize}
 
 \textbf{Strategien}\\
 Hochpreis, Niedrigpreis und Abschöpfungsstrategien
 
+\textbf{Kritik}
+\begin{itemize}
+	\item im Polypol stellt Preis ein Datum dar $\rightarrow$ Indiz für Vollkommenheit des Marktes
+	\item (sehr) kurzfristiges Instrument
+	\item Preis ist markt- und unternehmensabhängig 
+	\item Preisänderung ist vorwiegend psychologisches Signal
+	\item kurzfristige Preissenkung haben Auswirkungen auf die gesamte Logistikkette
+\end{itemize}
 
+\subsubsection{Distributionspolitik}
+Ist die grundsätzliche Gestaltung des verwenderbezogenen Vertriebskonzepts bei dezentralisierter Marktbearbeitung
 
+\textbf{Einflussfaktoren}
+\begin{itemize}
+	\item Produktbezogen
+	\item Verwenderbezogen
+	\item Konkurrenzbezogen
+\end{itemize}
 
+\textbf{Gestaltungsmöglichkeiten}
 
+Direktvertrieb
+\begin{itemize}
+	\item Verkaufsniederlassung (wirtschaftlich und rechtlich unselbständige Unternehmen)
+	\item Vertriebsgesellschaften (rechtlich selbständige Gesellschaften)
+	\item Reisende (Angestellte des Unternehmens)
+	\item Online-Shop
+\end{itemize}
 
+Absatzhelfer\\
+rechtlich und wirtschaftlich selbständige Unternehmen, die Kontaktanbahnung und Auftragsakquisition übernehmen
+\begin{itemize}
+	\item Handelsvertreter (Gewerbetreibende, der in fremden Name und auf fremde Rechnung tätig ist)
+	\item Kommissionär (Selbständiger gewerbetreibender, ist unter eigenem Namen für fremde Rechnung tätig)
+	\item (Handels) Makler (vermittelt gewerbsmäßig Vertragsabschlüsse für Dritte)
+\end{itemize}
 
+Absatzmittler
+Handelsbetriebe die in eigenem Namen und auf eigene Rechnung Waren beschaffen und veräußern
+\begin{itemize}
+	\item Großhandel (Kauf und Verkauf an weitere Händler, Großabnehmer und Weiterverarbeiter, unter Kaufleuten und große Mengen)
+	\item Einzelhandel (Verkauf an Endverbraucher, Sortimentsbildung auf Basis haushaltsüblicher Mengen)
+\end{itemize}
 
+\textbf{Betriebsformen im Einzelhandel}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Bild: Portfolio
+\begin{figure}[h]
+ \begin{center}
+   \includegraphics[scale=0.3]{bilder/betriebsformen_einzelhandel.png}
+ \end{center}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+\newpage
+\textbf{Struktur der Absatzwege}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Bild: Portfolio
+\begin{figure}[h]
+ \begin{center}
+   \includegraphics[scale=0.3]{bilder/absatzwege.png}
+ \end{center}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+\textbf{Sortimentsfunktion des Handels}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Bild: Portfolio
+\begin{figure}[h]
+ \begin{center}
+   \includegraphics[scale=0.3]{bilder/sortimentsfunktion.png}
+ \end{center}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newpage
 
+\textbf{Vertragliche Abnehmerbedingungen}
+\begin{itemize}
+	\item Bindung der Einkaufs- und Lagerhaltungspolitik (Abnehmer verpflichtet sich bestimmte Menge/Sortiment abzunehmen oder vorrätig zu halten) 
+	\item Vertriebsbindung (Bindung des Weiterverkäufers an bestimmte Zielgruppe/Vertriebsgebiet) 
+	\item Preisbindung (mit Ausnahmen seit 1973 verboten, bspw. Bücher, Arzneimittel)
+	\item Vertragshändlersystem (Händler benutzt Namen/Markenzeichen des Herstellers)
+	\item Franchising (Bezahlung für Benutzung von Markenzeichen/Namen/Ausstattung, Gebietsschutz)
+\end{itemize}
 
+\textbf{Zusammenfassende Wertung}\\
+Wahl der Distributionswege ist strategische Entscheidung, Handel fungiert als "`Gatekeeper"'. Ein bestehendes Distributionsnetz kann einen erheblichen Wettbewerbsfaktor darstellen, allerdings entstehen auch latente Bedrohungen durch neue Distributionswege.
 
+\subsubsection{Werbepolitik}
+Festlegung der Kommunikationsleistung des Unternehmens zur Steigerung des Absatzes der eigenen Produkte
+
+\textit{$\>>$ Werbung ist die bewusste, meist unpersönliche, unaufgeforderte und einseitige Beinflussung überwiegend anonymer Personenkreise im Sinne des Werbetreibenden mittels Medien} 
+
+\textbf{Werbemittel:} gestaltete und technisch fixierte Werbebotschaften\\
+\textbf{Werbeträger:} Transportmedium des Werbemittels\\
+
+\textbf{Werbepolitische Entscheidungen}
+\begin{itemize}
+	\item Festlegung der zu bewerbenden Ziel-/Produktgruppe  
+	\item Fixierung der Werbethematik (Profil des Produkts, Positionierung gegenüber Konkurrenzprodukten)
+	\item Ausmaß der Werbekontakte (Häufigkeit und Intervalle, Zeiten und Orte, Medien und Werbeträger)
+	\item Ziele der Werbung (z.B. Steigerung des Bekanntheitsgrads)
+\end{itemize}
+
+\textbf{Betriebswirtschaftliche Aspekte}\\
+Grundlegendes Problem: Messung des Werbeerfolgs - Aufwand $\leftrightarrow$ Ertrag\\
+$\rightarrow$ Grenzkosten der Werbung = Grenzertrag der Werbung!!
+
+Einflussfaktoren
+\begin{itemize}
+	\item Konkurrenz und Konjunktureinflüsse
+	\item "`Erfolgsspaltung"' - \textit{Welcher Teil des Verkaufserfolgs ist auf die Werbung zurückzuführen?}
+	\item "`Carry-Over-Effekt"' - \textit{Werbewirkung kann über den Zeitraum der Werbung hinaus anhalten}
+	\item "`Spill-Over-Effekt"' - \textit{Erhöhung des Erfolgs von Konkurrenzprodukten}
+	\item "`Verbundeffekte"' - \textit{Erhöhter Werbeaufwand und Kostendegressionseffekte in der Produktion}
+\end{itemize}
+
+\textbf{Durchführung der Werbung}\\
+Ablauf
+\begin{itemize}
+	\item Erarbeitung der Werbekonzeption
+	\item Gestaltung der Werbemittel
+	\item Auswahl der Medien
+	\item Streuung der Werbemittel
+\end{itemize}
+
+Zentrale Fragen\\
+\textit{Welche Werbemittel sind von ihren Gestaltungsmöglichkeiten her für die Werbeaussage geeignet?}\\
+\textit{Welche Werbeträger kommen grundsätzlich in Frage?} (Stil, Zielgruppe, Kosten, Zeitpunkt und Volumen)\\
+\textit{Wie und in welchem Umfang muss gestreut werden?}\\
+
+\textbf{Zusammenfassende Wertung}
+\begin{itemize}
+	\item Werbung ist vorwiegend ein psychologisches Problem (Spezialisten, weiche Faktoren)
+	\item Werbung ist unvermeidlich "`Endlosschraube"'
+	\item Werbung ist mit zunehmend steigendem finanziellen Aufwand verbunden
+	\item Erfolgsmessung ist problematisch	
+\end{itemize}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \newpage
 \section{Kosten- und Erfolgscontrolling}
 
 \subsection{Grundlagen und Grundbegriffe}
 
-\subsubsection*{Rechnungswesen}
+\subsubsection*{Aufgaben}
+\textbf{Rechnungswesen}\\
 Unterscheidung zwischen:
 \begin{itemize}
 	\item Externes Rechnungswesen: Finanz-, Geschäftsbuchhaltung, Jahresabschluss
 	\item Internes Rechnungswesen Kosten- und Leistungsrechnung (interne Entscheidungsprozesse)
 \end{itemize}
 
-Aufgaben der Kosten- und Leistungsrechnung:\\
-Erfassung anfallender Kosten und verursachungsgerechte Zurechnung der Kosten zu den Kostenträgern.
+\textbf{Aufgaben der Kosten- und Leistungsrechnung}\\
+Erfassung anfallender Kosten und verursachungsgerechte Zurechnung der Kosten zu den Kostenträgern
+\begin{itemize}
+	\item Kalkulation der Herstell- und Selbstkosten
+	\item Festsetzung der kurz- und langfristigen Preisuntergrenze
+\end{itemize}
+Wirtschaftlichkeitskontrolle
+\begin{itemize}
+	\item Vergleich von Plan-/Istkosten
+\end{itemize}
+Bereitstellung von Informationen für Entscheidungsrechnungen
+\begin{itemize}
+	\item z.B. Eigenfertigung und Fremdbezug, kostenoptimales Produktionsprogramm, usw.
+\end{itemize}
+
+\subsubsection*{Teilgebiete der Kostenrechnung}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Bild: Portfolio
+\begin{figure}[h]
+ \begin{center}
+   \includegraphics[scale=0.3]{bilder/kostenrechnung.png}
+ \end{center}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\subsubsection*{Aufwand und Kosten}
+\textbf{Aufwand (Finanzbuchhaltung):} zu Anschaffungsausgaben bewerteter Güterverbrauch\\
+\textbf{Kosten (Kostenrechnung):} bewerteter leistungsbezogener Güterverbrauch\\
+\textbf{Gemeinsamkeiten:} Güterverbrauch, kein Gütertausch (Geld gegen Ware)\\
+\textbf{Unterschiede:} Leistungsbezug der Kosten, Bewertung des Güterverbrauchs (Anschaffungswert gegen Wiederbeschaffungswert)
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Bild: Portfolio
+\begin{figure}[h]
+ \begin{center}
+   \includegraphics[scale=0.3]{bilder/leistungsprogramm.png}
+ \end{center}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\subsubsection*{Ertrag und Leistung}
+
+\textbf{Ertrag (Finanzbuchhaltung)}\\
+Bewertete Güterentstehung aller Art
+\begin{itemize}
+	\item Abgesetzte Erzeugnisse: Erlöse
+	\item Gelagerte Erzeugnisse: Herstelleraufwand (=Herstellkosten)
+\end{itemize}
+
+\textbf{Leistung (Kostenrechnung)}\\
+Bewertete betriebstypische Leistung
+\begin{itemize}
+	\item Innerbetriebliche Leistung (wird im Betrieb verbucht)
+	\item Marktleistung (wird verkauft $\rightarrow$ Bewertung zu Verkaufspreisen)
+\end{itemize}
+
+\textbf{Neutraler Ertrag}\\
+Ertrag der nicht betriebstypisch ist, wie z.B. Vermietung oder Wertpapiergeschäfte
+
+\textbf{Zusatzleistung}\\
+Erschaffung eines selbst genutzten Patents
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Bild: Portfolio
+\begin{figure}[h]
+ \begin{center}
+   \includegraphics[scale=0.3]{bilder/leistungsprogramm2.png}
+ \end{center}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \subsection{Kostenartenrechnung}
+
+
 
 \end{document} 

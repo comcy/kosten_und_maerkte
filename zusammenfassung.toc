@@ -7,11 +7,15 @@
 \contentsline {subsection}{\numberline {1.5}Strategische Wahl}{5}{subsection.1.5}
 \contentsline {subsection}{\numberline {1.6}Strategieimplementation}{6}{subsection.1.6}
 \contentsline {subsection}{\numberline {1.7}Strategische Kontrolle}{7}{subsection.1.7}
-\contentsline {subsection}{\numberline {1.8}Zusammenh\IeC {\"a}nge der strategischen und operativen Planung}{7}{subsection.1.8}
-\contentsline {section}{\numberline {2}Absatz}{8}{section.2}
-\contentsline {subsection}{\numberline {2.1}Grundlagen}{8}{subsection.2.1}
+\contentsline {subsection}{\numberline {1.8}Zusammenh\IeC {\"a}nge der strategischen und operativen Planung}{8}{subsection.1.8}
+\contentsline {section}{\numberline {2}Absatz}{9}{section.2}
+\contentsline {subsection}{\numberline {2.1}Grundlagen}{9}{subsection.2.1}
 \contentsline {subsection}{\numberline {2.2}Marktforschung}{10}{subsection.2.2}
-\contentsline {subsection}{\numberline {2.3}Instrumente}{11}{subsection.2.3}
-\contentsline {section}{\numberline {3}Kosten- und Erfolgscontrolling}{14}{section.3}
-\contentsline {subsection}{\numberline {3.1}Grundlagen und Grundbegriffe}{14}{subsection.3.1}
-\contentsline {subsection}{\numberline {3.2}Kostenartenrechnung}{14}{subsection.3.2}
+\contentsline {subsection}{\numberline {2.3}Instrumente}{12}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}Produktpolitik}{12}{subsubsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.2}Preispolitik}{13}{subsubsection.2.3.2}
+\contentsline {subsubsection}{\numberline {2.3.3}Distributionspolitik}{15}{subsubsection.2.3.3}
+\contentsline {subsubsection}{\numberline {2.3.4}Werbepolitik}{18}{subsubsection.2.3.4}
+\contentsline {section}{\numberline {3}Kosten- und Erfolgscontrolling}{20}{section.3}
+\contentsline {subsection}{\numberline {3.1}Grundlagen und Grundbegriffe}{20}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Kostenartenrechnung}{22}{subsection.3.2}
