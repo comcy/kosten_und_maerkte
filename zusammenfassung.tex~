@@ -531,7 +531,7 @@ Zweck der Untersuchung, Art, Ausmaß und Qualität der zu beschaffenden Informat
 \textbf{2. Wahl des Forschungsdesigns} - Grundsätzlicher Aufbau der Studie:
 \begin{itemize}
 	\item Explorativ (Gewinnung qualitativer Daten als Basisinformation)
-	%% Randnotiz	
+%% Randnotiz	
 \mpar{\textcolor{red}{Beispiel: "`Welche Eigenschaften muß eine Kaffeesorte für ältere Menschen aufweisen?"'}}
 	\item Deskriptiv (Quantitative Beschreibung von Marktgegebenheiten, z.B. Absatzzahlen und Entwicklung des Marktanteils)
 	\item Kausalanalytisch (Zusammenhänge zwischen Marktgegebenheiten, z.B. Wirkung der Verpackungsgestaltung auf den Marktanteil)
@@ -934,7 +934,7 @@ Erschaffung eines selbst genutzten Patents
 \textbf{Aufgaben}\\
 Vollständige und überschneidungsfreie Erfassung der Kosten sowie Gliederung der Kostenarten bis zur Informationsweitergabe ans Kostenstellen- und Kostenträgerrechnung 
 
-\textbf{Gliederung nach Art der verbrauchten Produktionsfaktoren (Primäre Kosten)}\\
+\textbf{Gliederung nach Art der verbrauchten Produktionsfaktoren (Primäre Kosten)}
 \begin{itemize}
 	\item Personalkosten (Löhn und Gehälter)
 	\item Materialkosten (Roh- und Hilfsstoffe)
@@ -944,6 +944,68 @@ Vollständige und überschneidungsfreie Erfassung der Kosten sowie Gliederung de
 	\item Wagniskosten (Garantiekosten)
 	\item Steuern (Grundsteuer)
 \end{itemize}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Bild: Portfolio
+\begin{figure}[h]
+ \begin{center}
+   \includegraphics[scale=0.3]{bilder/primaerkosten.png}
+ \end{center}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\textbf{Unterscheidung der Kosten bei Beschäftigungsschwankungen}
+%% Randnotiz
+\mpar{\textcolor{red}{Fixkosten bleiben immer Fixkosten}}
+\begin{itemize}
+	\item Fixkosten (unabhängig von der Höhe der Beschäftigung, Aufrechterhaltung der Betriebs-/Leistungsbereitschaft)
+	\item Sprungfixe Kosten (im Rahmen von Beschäftigungsintervallen immer konstant)
+	\item Variable Kosten (abhängig von Beschäftigung)
+\end{itemize}
+
+\textbf{Zusammenhang Fixe/variable und Einzel-/Gemeinkosten}\\
+Fixe Kosten sind immer Gemeinkosten und Einzelkosten sind immer Variabel
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Bild: Portfolio
+\begin{figure}[h]
+ \begin{center}
+   \includegraphics[scale=0.3]{bilder/zshkosten.png}
+ \end{center}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\textbf{Personalkosten und deren Verrechnung}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Bild: Portfolio
+\begin{figure}[h]
+ \begin{center}
+   \includegraphics[scale=0.3]{bilder/personalkosten.png}
+ \end{center}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\textbf{Materialkosten und deren Verrechnung}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Bild: Portfolio
+\begin{figure}[h]
+ \begin{center}
+   \includegraphics[scale=0.3]{bilder/materialkosten.png}
+ \end{center}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
