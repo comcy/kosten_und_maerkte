@@ -19,3 +19,5 @@
 \contentsline {section}{\numberline {3}Kosten- und Erfolgscontrolling}{20}{section.3}
 \contentsline {subsection}{\numberline {3.1}Grundlagen und Grundbegriffe}{20}{subsection.3.1}
 \contentsline {subsection}{\numberline {3.2}Kostenartenrechnung}{22}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Kostenstellenrechnung}{25}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Kostentr\IeC {\"a}gerrechnung}{26}{subsection.3.4}
