@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.5.1)  27 JUN 2014 14:34
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.5.1)  28 JUN 2014 11:54
 entering extended mode
 **zusammenfassung.tex
 
@@ -1750,62 +1750,199 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [24]
+<bilder/kostenstellenrechnung_ueberblick.png, id=344, 736.7525pt x 405.515pt>
+File: bilder/kostenstellenrechnung_ueberblick.png Graphic file (type png)
+
+<use bilder/kostenstellenrechnung_ueberblick.png>
+Package pdftex.def Info: bilder/kostenstellenrechnung_ueberblick.png used on in
+put line 1081.
+(pdftex.def)             Requested size: 221.02745pt x 121.65543pt.
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[25]
+[25 <C:/Users/cy/Workspace/Kosten und Märkte/kosten_und_maerkte/bilder/kostens
+tellenrechnung_ueberblick.png>]
+<bilder/kostenstellenplan.png, id=354, 717.68124pt x 278.03876pt>
+File: bilder/kostenstellenplan.png Graphic file (type png)
+
+<use bilder/kostenstellenplan.png>
+Package pdftex.def Info: bilder/kostenstellenplan.png used on input line 1103.
+(pdftex.def)             Requested size: 215.30603pt x 83.41226pt.
+
+<bilder/gemeinkosten.png, id=355, 563.10374pt x 526.96875pt>
+File: bilder/gemeinkosten.png Graphic file (type png)
+
+<use bilder/gemeinkosten.png>
+Package pdftex.def Info: bilder/gemeinkosten.png used on input line 1112.
+(pdftex.def)             Requested size: 168.93242pt x 158.09184pt.
+
+<bilder/bab.png, id=356, 799.98875pt x 392.46625pt>
+File: bilder/bab.png Graphic file (type png)
+ <use bilder/bab.png>
+Package pdftex.def Info: bilder/bab.png used on input line 1123.
+(pdftex.def)             Requested size: 239.99847pt x 117.74077pt.
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[26]
-Overfull \hbox (29.15309pt too wide) detected at line 1203
+[26 <C:/Users/cy/Workspace/Kosten und Märkte/kosten_und_maerkte/bilder/kostens
+tellenplan.png> <C:/Users/cy/Workspace/Kosten und Märkte/kosten_und_maerkte/bi
+lder/gemeinkosten.png> <C:/Users/cy/Workspace/Kosten und Märkte/kosten_und_mae
+rkte/bilder/bab.png>]
+<bilder/leistungsaustauschmatrix.png, id=365, 642.4pt x 109.40875pt>
+File: bilder/leistungsaustauschmatrix.png Graphic file (type png)
+
+<use bilder/leistungsaustauschmatrix.png>
+Package pdftex.def Info: bilder/leistungsaustauschmatrix.png used on input line
+ 1148.
+(pdftex.def)             Requested size: 192.72148pt x 32.82286pt.
+
+<bilder/leistungsverechnung1.png, id=366, 738.76pt x 576.1525pt>
+File: bilder/leistungsverechnung1.png Graphic file (type png)
+
+<use bilder/leistungsverechnung1.png>
+Package pdftex.def Info: bilder/leistungsverechnung1.png used on input line 115
+7.
+(pdftex.def)             Requested size: 221.6297pt x 172.84708pt.
+
+<bilder/leistungsverechnung2.png, id=367, 773.89125pt x 366.36874pt>
+File: bilder/leistungsverechnung2.png Graphic file (type png)
+
+<use bilder/leistungsverechnung2.png>
+Package pdftex.def Info: bilder/leistungsverechnung2.png used on input line 116
+6.
+(pdftex.def)             Requested size: 232.16916pt x 109.91147pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[27 <C:/Users/cy/Workspace/Kosten und Märkte/kosten_und_maerkte/bilder/leistun
+gsaustauschmatrix.png> <C:/Users/cy/Workspace/Kosten und Märkte/kosten_und_mae
+rkte/bilder/leistungsverechnung1.png> <C:/Users/cy/Workspace/Kosten und Märkte
+/kosten_und_maerkte/bilder/leistungsverechnung2.png>]
+<bilder/zuschlagssaetze.png, id=377, 775.89874pt x 394.47375pt>
+File: bilder/zuschlagssaetze.png Graphic file (type png)
+
+<use bilder/zuschlagssaetze.png>
+Package pdftex.def Info: bilder/zuschlagssaetze.png used on input line 1218.
+(pdftex.def)             Requested size: 232.77141pt x 118.34303pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[28 <C:/Users/cy/Workspace/Kosten und Märkte/kosten_und_maerkte/bilder/zuschla
+gssaetze.png>]
+<bilder/grundschema_zuschlagskalkulation.png, id=391, 790.955pt x 457.71pt>
+File: bilder/grundschema_zuschlagskalkulation.png Graphic file (type png)
+
+<use bilder/grundschema_zuschlagskalkulation.png>
+Package pdftex.def Info: bilder/grundschema_zuschlagskalkulation.png used on in
+put line 1232.
+(pdftex.def)             Requested size: 237.28833pt x 137.31406pt.
+
+<bilder/beispiel_zuschlagskalkulation.png, id=392, 495.8525pt x 298.11375pt>
+File: bilder/beispiel_zuschlagskalkulation.png Graphic file (type png)
+
+<use bilder/beispiel_zuschlagskalkulation.png>
+Package pdftex.def Info: bilder/beispiel_zuschlagskalkulation.png used on input
+ line 1243.
+(pdftex.def)             Requested size: 148.7569pt x 89.43481pt.
+
+<bilder/beispiel_zuschlagskalkulation2.png, id=393, 497.86pt x 455.7025pt>
+File: bilder/beispiel_zuschlagskalkulation2.png Graphic file (type png)
+
+<use bilder/beispiel_zuschlagskalkulation2.png>
+Package pdftex.def Info: bilder/beispiel_zuschlagskalkulation2.png used on inpu
+t line 1252.
+(pdftex.def)             Requested size: 149.35915pt x 136.71179pt.
+
+Underfull \vbox (badness 1107) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[29 <C:/Users/cy/Workspace/Kosten und Märkte/kosten_und_maerkte/bilder/grundsc
+hema_zuschlagskalkulation.png> <C:/Users/cy/Workspace/Kosten und Märkte/kosten
+_und_maerkte/bilder/beispiel_zuschlagskalkulation.png> <C:/Users/cy/Workspace/K
+osten und Märkte/kosten_und_maerkte/bilder/beispiel_zuschlagskalkulation2.png>
+]
+Overfull \hbox (29.15309pt too wide) detected at line 1284
 [][][] []
  []
 
 
+<bilder/beispiel_betriebsergebnisrechnung1.png, id=403, 478.78876pt x 497.86pt>
+File: bilder/beispiel_betriebsergebnisrechnung1.png Graphic file (type png)
+<use bilder/beispiel_betriebsergebnisrechnung1.png>
+Package pdftex.def Info: bilder/beispiel_betriebsergebnisrechnung1.png used on 
+input line 1295.
+(pdftex.def)             Requested size: 143.63773pt x 149.35915pt.
+
+<bilder/beispiel_betriebsergebnisrechnung2.png, id=404, 516.93124pt x 548.0475p
+t>
+File: bilder/beispiel_betriebsergebnisrechnung2.png Graphic file (type png)
+ <use bilder/beispiel_betriebsergebnisrechnung2.png>
+Package pdftex.def Info: bilder/beispiel_betriebsergebnisrechnung2.png used on 
+input line 1304.
+(pdftex.def)             Requested size: 155.08057pt x 164.41551pt.
+
+
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[27]
+[30 <C:/Users/cy/Workspace/Kosten und Märkte/kosten_und_maerkte/bilder/beispie
+l_betriebsergebnisrechnung1.png> <C:/Users/cy/Workspace/Kosten und Märkte/kost
+en_und_maerkte/bilder/beispiel_betriebsergebnisrechnung2.png>]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[28]
+[31]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[29]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1291.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1291.
+[32]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1402.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1402.
 
 ("C:\Users\cy\Workspace\Kosten und Märkte\kosten_und_maerkte\zusammenfassung.a
 ux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1291.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1291.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1402.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1402.
 
 Package rerunfilecheck Info: File `zusammenfassung.out' has not changed.
 (rerunfilecheck)             Checksum: 4824003B137F7DBFA5DC3C403878E54A;1658.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1291.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1402.
  ) 
 Here is how much of TeX's memory you used:
- 25935 strings out of 493921
- 451328 string characters out of 3147292
+ 26004 strings out of 493921
+ 453740 string characters out of 3147292
  575719 words of memory out of 3000000
- 28534 multiletter control sequences out of 15000+200000
+ 28587 multiletter control sequences out of 15000+200000
  68357 words of font info for 67 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  55i,12n,92p,1768b,497s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1821,9 +1958,9 @@ gram Files/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files/MiKT
 eX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
 1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri
 8a.pfb>
-Output written on zusammenfassung.pdf (33 pages, 1221051 bytes).
+Output written on zusammenfassung.pdf (36 pages, 2144615 bytes).
 PDF statistics:
- 450 PDF objects out of 1000 (max. 8388607)
- 120 named destinations out of 1000 (max. 500000)
- 337 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 489 PDF objects out of 1000 (max. 8388607)
+ 123 named destinations out of 1000 (max. 500000)
+ 402 words of extra memory for PDF output out of 10000 (max. 10000000)
 
