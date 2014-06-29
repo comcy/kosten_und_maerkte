@@ -8,6 +8,7 @@
 \usepackage[T1]{fontenc}
 \usepackage{lmodern}
 \usepackage{ucs}
+\usepackage{amsmath}
 \PrerenderUnicode{äüößÄÜÖ} 
 
 \usepackage[colorlinks=true, pdfborder={0 0 0}, pdftex, breaklinks=true, linkcolor=blue, citecolor=orange , filecolor=purple , urlcolor=purple, linktocpage=true]{hyperref}
@@ -444,10 +445,9 @@ x-Rs der Absatzwirtschaft:
 $\rightarrow$ steigender Stellenwert des Absatzes
 
 Minimale Fehlmengenkosten + Minimale Bestandskosten $\rightarrow$ Formel
-\[
-\text{Servicegrad} = \frac{\text{Anzahl der befriedigten Bedarfsanforderungen}}{\text{Anzahl aller Bedarfsanforderungen}} * 100\%
-\]
-
+\begin{equation}
+\text{Servicegrad} = \frac{\text{Anzahl der befriedigten Bedarfsanforderungen}}{\text{Anzahl aller Bedarfsanforderungen}} \cdot 100\%
+\end{equation}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% Bild: Portfolio
 \begin{figure}[h]
@@ -974,6 +974,8 @@ Fixe Kosten sind immer Gemeinkosten und Einzelkosten sind immer Variabel
 \end{figure}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \newpage 
+
+\subsubsection*{Personalkosten}
 \textbf{Personalkosten und deren Verrechnung}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% Bild: Portfolio
@@ -984,6 +986,7 @@ Fixe Kosten sind immer Gemeinkosten und Einzelkosten sind immer Variabel
 \end{figure}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+\subsubsection*{Materialkosten}
 \textbf{Materialkosten und deren Verrechnung}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% Bild: Portfolio
@@ -994,19 +997,439 @@ Fixe Kosten sind immer Gemeinkosten und Einzelkosten sind immer Variabel
 \end{figure}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+\textbf{Ermittlung des Materialverbrauchs}
+Teilt sich in zwei veschiedene Arten:
+%% Randnotiz	
+	\mpar{\textcolor{red}{Kann ermittelt werden (bspw. durch Auftrag)}}
+\begin{itemize}
+	\item Ordentlicher Materialverbrauch = Summe der Menge auf Materialentnahmescheine
+	\item Ausserordentlicher Verbrauch:\\
+			\text{Ist-Anfangsbestand (laut Inventur)}\\
+			\text{+ Ist-Zugang (laut Lieferscheine)}\\
+			\text{- Ist-Verbrauch (laut Materialentnahmescheine)}\\
+			\textbf{= Soll-Endbestand}\\
+			\text{- Ist-Endbestand (laut Inventur)}\\
+			\textbf{= ausserordentlicher Verbrauch}\\
+\end{itemize}
+%% Randnotiz	
+	\mpar{\textcolor{red}{Inventur ist nötig}}
+$\rightarrow$ die verbrauchten Mengen werden in der Regel mit durchschnittlichen Anschaffungspreisen bewertet ("`Verbrauchswerte"')
+
+\subsubsection*{Kalkulatorische Kosten}
+Unterscheidung zweier Arten: Kalkulatorische Abschreibungen/Zinsen
 
 
+\textbf{Kalkulatorische Abschreibungen}
+\begin{itemize}
+	\item Betriebsmittel (Gebäude/Maschinen) sind langfristige nutzbare Produktionsfaktoren und müssen über mehrere Nutzungsjahre verteilt werden ("`Abschreibungen"')
+	\item Verrechnung solange Betriebsmittel genutzt wird
+	\item Substanzerhaltung ist Basis für Abschreibung (in Kostenrechnung Wiederbeschaffungs-/Wiederherstellungskosten)
+	\item Erfasst wird nur ordentlicher Verbrauch, ausserordentlicher Verbrauch als "`Wagniskosten"'
+	\item Kalkulatorische Abschreibungen werden als Gemeinkosten erfasst
+\end{itemize}
 
+\textbf{Kalkulatorische Zinsen}
+\begin{itemize}
+	\item Verzinsung des gesamten, gebundenen betriebsnotwendigen Kapitals
+	\item Verbrauch, da es nicht anderweitig genutzt werden kann ("`Opportunitätskosten"')
+	\item es spielt keine Rolle ob Eigen- oder Fremdkapital
+\end{itemize}
 
+\textbf{Fremdleistungskosten}
+\begin{itemize}
+	\item Inanspruchnahme von Leistungen Dritter
+	\item für jede Leistung liegt externer Beleg vor
+\end{itemize}
 
+\textbf{Wagniskosten}
+\begin{itemize}
+	\item Kostenmäßige Berücksichtigung von unternehmerischen Risiken (Anlage, Forschung, etc...)
+	\item Höhe und Zeitpunkt der Risiken sind in der Regel nicht vorhersehbar
+	\item Wagniskosten entsprechen einer "`Eigenversicherung"'
+	\item Kosten für Fremdversicherung von Risiken sind Fremdleistungskosten
+\end{itemize}
 
+\textbf{Steuern}
+\begin{itemize}
+	\item Steuern müssen leistungsbezogen sein, damit sie Kosten darstellen
+	\item Höhe der Kosten durch Steuerbescheid vorgegeben
+	\item Verrechnung als Gemeinkosten
+	\item Gebühren/Beiträge sollten als Fremdleistungen verrechnet werden
+\end{itemize}
 
+\subsection{Kostenstellenrechnung}
+dient der Aufteilung der Gemeinkosten auf die Produkte für die Zwecke der Kalkulation, eingeordnet zwischen Kostenarten- und Kostenträgerrechnung. Wesentliche Voraussetzung ist die Einteilung des Unternehmens in geeignete Abrechnungseinheiten (Kostenstellen)
 
+Unterscheidung von:
+\begin{itemize}
+	\item Hilfskostenstelle und Allgemeine Kostenstelle (Innerbetriebliche Leistungen, kein Absatzmarkt)
+	\item Haupt- und Endkostenstelle (hauptsächlich Leistungen, die in Endprodukte eingehen)
+\end{itemize}
 
+Ziele der Kostenstellenrechnung ist Verrechnung \underline{aller} Gemeinkosten auf die Hauptkostenstelle
+$\rightarrow$ Betriebsabrechnungsbogen (BAB), in mehreren Verrechnungsstufen:
+\begin{enumerate}
+	\item Verteilen der Primären Gemeinkosten auf die Kostenstellen
+	\item Verrechnen der Innerbetrieblichen Leistungen
+	\item Ermittlung der Gemeinkostenzuschläge für die Kalkulation
+\end{enumerate}
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Bild: Portfolio
+\begin{figure}[h]
+ \begin{center}
+   \includegraphics[scale=0.5]{bilder/kostenstellenrechnung_ueberblick.png}
+ \end{center}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+\subsubsection*{Kostenstellenplan}
 
+Illustration der Gemeinkostenverrechnung
+\begin{itemize}
+	\item 300.000 Euro Fertigungsmaterial (= Materialeinzelkosten)
+	\item 50.000 Euro Fertigungslöhne
+	\item 200.000 Euro Gemeinkosten
+	\item Produziert werden die beiden Enderzeugnisse A und B
+\end{itemize} 
 
+\newpage
+Kostenstellenplan:
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Bild: Portfolio
+\begin{figure}[h]
+ \begin{center}
+   \includegraphics[scale=0.5]{bilder/kostenstellenplan.png}
+ \end{center}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Bild: Portfolio
+\begin{figure}[h]
+ \begin{center}
+   \includegraphics[scale=0.5]{bilder/gemeinkosten.png}
+ \end{center}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\subsubsection*{Betriebsabrechnungsbogen}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Bild: Portfolio
+\begin{figure}[h]
+ \begin{center}
+   \includegraphics[scale=0.5]{bilder/bab.png}
+ \end{center}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newpage 
+
+\subsubsection*{Innerbetriebliche Leistungsverrechnung}
+Nach Verteilung der Gemeinkosten sind Kosten angefallen auf:
+\begin{itemize}
+	\item Allgemeine Kostenstellen (indirekte Leistungen)
+	\item Hauptkostenstellen (direkte Leistungen)
+\end{itemize}
+
+Die indirekte Leistungen missen nun auf Kostenstellen verrechnet werden für die sie erbracht wurden\\
+$\rightarrow$ Abgebende Kostenstelle wird entlastet, empfangende Kostenstelle belastet
+
+Nach Verrechnung keine Gemeinkosten mehr auf Allgemeine-/Hilfskostenstellen\\
+$\rightarrow$ gesamte Kosten verteilen sich auf Hauptkostenstelle
+
+Leistungsaustauschmatrix - Berechnung:
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Bild: Portfolio
+\begin{figure}[h]
+ \begin{center}
+   \includegraphics[scale=0.5]{bilder/leistungsaustauschmatrix.png}
+ \end{center}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Bild: Portfolio
+\begin{figure}[h]
+ \begin{center}
+   \includegraphics[scale=0.5]{bilder/leistungsverechnung1.png}
+ \end{center}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Bild: Portfolio
+\begin{figure}[h]
+ \begin{center}
+   \includegraphics[scale=0.5]{bilder/leistungsverechnung2.png}
+ \end{center}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\textbf{Ermittlung der Zuschlagssätze} $\rightarrow$ \textbf{Problem}\\
+\textit{Auf der Hauptkostenstelle H4 (Fertigung) sind insgesamt 120.000 Euro Kosten angefallen. Da zwei Produkte produziert werden, stellt sich bei der Kalkulation die Frage, wie diese Gemeinkosten auf die beiden Produkte aufzuteilen sind.}
+
+Für die Verteilung wird gesucht:
+\begin{itemize}
+	\item Eine gemeinsame Verteilungsbasis (Bezugsgröße: Mengen-/Wert- oder Zeitgröße)
+	\item Zuschlagsbasis, in direkter Abhängigkeit zu verteilenden Gemeinkosten
+\end{itemize}  
+
+Berechnungen
+
+\begin{equation}
+\text{Zuschlagssatz} = \frac{\text{Endstellenkosten (ESK) der Hauptkostenstelle}}{\text{Bezugsgröße der Hauptkostenstelle}} \cdot 100
+\end{equation}
+
+\begin{equation}
+\text{Zuschlagssatz} = \frac{\text{Endstellenkosten (ESK) der Hauptkostenstelle}}{\text{Bezugsgröße der Hauptkostenstelle}} \cdot 100
+\end{equation}
+
+\begin{equation}
+\text{Zuschlagssatz} = \frac{\text{Endstellenkosten (ESK) der Hauptkostenstelle}}{\text{Bezugsgröße der Hauptkostenstelle}} \cdot 100
+\end{equation}
+
+\begin{equation}
+\text{Materialgemeinkostenzuschlagssatz} = \frac{\text{Materialgemeinkosten}}{\text{Materialeinzelkosten}} \cdot 100
+\end{equation}
+
+\begin{equation}
+\text{Fertigungsgemeinkostenzuschlagssatz} = \frac{\text{Fertigungsgemeinkosten}}{\text{Fertigungseinzelkosten}} \cdot 100
+\end{equation}
+
+\begin{equation}
+\text{Verwaltungskostenzuschlagssatz} = \frac{\text{Verwaltungskosten}}{\text{Herstellkosten}} \cdot 100
+\end{equation}
+
+\begin{equation}
+\text{Vertriebsgemeinkostenzuschlagssatz} = \frac{\text{Vertriebsgemeinkosten}}{\text{Herstellkosten}} \cdot 100
+\end{equation}
+
+\begin{equation}
+\text{Forschungs- und Entwicklungsgemeinkostenzuschlagssatz} = \frac{\text{FuE-Gemeinkosten}}{\text{Herstellkosten}} \cdot 100
+\end{equation}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Bild: Portfolio
+\begin{figure}[h]
+ \begin{center}
+   \includegraphics[scale=0.5]{bilder/zuschlagssaetze.png}
+ \end{center}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newpage
+\subsection{Kostenträgerrechnung (Vollkostenkalkulation)}
+
+\subsubsection*{Grundschema der Zuschlagskalkulation}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Bild: Portfolio
+\begin{figure}[h]
+ \begin{center}
+   \includegraphics[scale=0.5]{bilder/grundschema_zuschlagskalkulation.png}
+ \end{center}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\underline{Beispiel der Zuschlagskalkulation:}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Bild: Portfolio
+\begin{figure}[h]
+ \begin{center}
+   \includegraphics[scale=0.5]{bilder/beispiel_zuschlagskalkulation.png}
+ \end{center}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Bild: Portfolio
+\begin{figure}[h]
+ \begin{center}
+   \includegraphics[scale=0.5]{bilder/beispiel_zuschlagskalkulation2.png}
+ \end{center}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\subsubsection*{Kurzfristige Erfolgsrechnung - Betriebsergebnisrechnung}
+
+\textbf{Gesamtkostenverfahren}\\
+Zur Ermittlung des betrieblichen Erfolgs ist es erforderlich, den herstellungs- und absatzbedingten Kosten die entsprechenden Erlöse gegenüber zu stellen
+
+$\rightarrow$ monatliche Ermittlung des Erfolgs = kurzfristige Erfolgsrechnung\\
+$\rightarrow$ Gesamtkostenverfahren: Gegenüberstellung gesamte Erlöse/gesamten Kosten in Abrechnungsperiode
+
+\begin{equation}
+\begin{aligned}
+ & \text{(Umsatz-) Erlöse der Periode}\\
+ + & \text{Bestandserhöhung an fertigen und unfertigen Leistungen (bewertet zu Herstellungskosten)}\\
+ - & \text{Bestandsminderungen an fertigen und unfertigen Leistungen (bewertet zu Herstellungskosten)}\\
+ - & \text{Gesamtkosten der Periode gegliedert nach Kostenarten}\\\hline
+ = & \text{Betriebsergebnis}
+ & \end{aligned}
+\end{equation}
+
+\textbf{Umsatzkostenverfahren}\\
+Die gesamten Umsatzerlöse (pro Erzeugnis) werden die gesamten Selbstkosten (pro Erzeugnis) gegenübergestellt. Die Selbstkosten beziehen sich auf die abgesetzte Menge (Umsatz) daher Umsatzkostenverfahren.
+
+\begin{equation}
+\begin{aligned}
+ & \text{Umsatzerlöse der in der Periode abgesetzten Erzeugnisse, gegliedert nach Erzeugnisarten}\\
+ - & \text{Selbstkosten der in der periode abgesetzten Erzeugnisse (=Umsatzkosten), gegliedert nach Erzeugnisarten}\\\hline
+ = & \text{Betriebsergebnis}
+ & \end{aligned}
+\end{equation}
+
+$\rightarrow$ stellt Kosten- und Erlösseite getrennt nach Erzeugnissen auf\\
+$\rightarrow$ Zusammensetzung des Gesamterfolgs wird sichtbar
+
+\underline{Beispiel:}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Bild: Portfolio
+\begin{figure}[h]
+ \begin{center}
+   \includegraphics[scale=0.5]{bilder/beispiel_betriebsergebnisrechnung1.png}
+ \end{center}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Bild: Portfolio
+\begin{figure}[h]
+ \begin{center}
+   \includegraphics[scale=0.5]{bilder/beispiel_betriebsergebnisrechnung2.png}
+ \end{center}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\subsubsection*{Kostenkontrolle}
+Normalkosten stellen Bezugspunkt zur Kostenkontrolle dar
+\begin{itemize}
+	\item Normalkosten: Durchschnittliche Ist-Kosten bezogen auf die aktuelle Beschäftigung
+	\item Vergleich der Ist-Kosten mit den Normalkosten ergibt Über- oder Unterdeckung
+	\item Normalkosten sind leicht zu ermitteln, beinhalten aber Unwirtschaftlichkeiten, da es sich um Ist-Kosten handelt
+\end{itemize}
+$\rightarrow$ wirksamere Kostenkontrolle durch eine Kostenplanung (Plankosten = erwartete und bei normalem, ordnungsgemäßen Verlauf entstehende Kosten)\\
+$\rightarrow$ Berücksichtigung der Ist-Beschäftigung (Plankosten basieren auf einer Planbeschäftigung und sind daher umzurechnen (= Sollkosten)
+
+\begin{equation}
+ \text{Sollkosten} =  \text{Plankosten} + \frac{\text{variable Plankosten} \cdot \text{Ist-Beschäftigung}}{\text{Planbeschäftigung}} 
+\end{equation}
+
+\textbf{Weitere Berechnungen}
+
+\begin{equation}
+ \text{Planverrechnungssatz} = \frac{\text{Plankosten}}{\text{Planbeschäftigung}} 
+\end{equation}
+
+\begin{equation}
+ \text{Verrechnete Plankosten} = \text{Planverrechnungssatz} \cdot \text{Ist-Beschäftigung} 
+\end{equation}
+
+\textbf{Berechnung der Abweichungen}
+
+\begin{equation}
+ \text{Verbrauchsabweichung} = \text{Ist-Kosten} - \text{Soll-Kosten} 
+\end{equation}
+
+\begin{equation}
+ \text{Beschäftigungsabweichung} = \text{Soll-Kosten} - \text{Verrechnete-Plankosten} 
+\end{equation}
+
+\underline{Beispiel:}
+
+Ausgangsdaten
+\begin{itemize}
+	\item Planbeschäftigung: 2.000 Stück
+	\item Plankosten: 120.000 Euro (davon 30.000 Euro Fixkosten)
+	\item Ist-Beschäftigung: 2.200 Stück
+	\item Ist-Kosten: 139.000 Euro
+\end{itemize}
+
+Berechnung der der Sollkosten (Plankosten auf Basis der Ist-Beschäftigung)
+\[
+\text{Soll-Kosten} = 30.000 + \frac{(90.000 \cdot 2.200)}{2.000} = 129.000 \quad \text{Euro}
+\]
+
+Verbrauchsabweichung
+\[
+\begin{aligned}
+ & \text{Ist-Kosten} = \text{Ist-Menge} \cdot \text{Planwert}\\
+ - & \text{Soll-Kosten} = \text{Soll-Menge} \cdot \text{Planwert}\\\hline
+ = & \text{Verbrauchsabweichung}
+ & \end{aligned}
+\]
+
+\[
+\text{Verbrauchsabweichung} = 139.000 - 129.000 = 10.000 \quad \text{Euro}
+\]
+
+Beschäftigungsabweichung
+
+\[
+\text{Planverrechnungssatz} = \frac{120.000\quad \text{Euro}}{2000\quad \text{Stück}} = 60\quad \text{Euro/Stück}
+\]
+
+\[
+\text{Tatsächlich produziert} = 2.200\quad \text{Stück} \cdot 60\quad \text{Euro/Stück} = 132.000\quad \text{Euro}
+\]
+
+\[
+\text{Beschäftigungsabweichung} = 129.000\quad \text{Euro} - 132.000\quad \text{Euro} = -3.000\quad \text{Euro}
+\]
+Die Beschäftigungsabweichung sagt aus, wie viele Fixkosten bei Überbeschäftigung zu viel verrechnet werden
+
+\[
+\text{Gesamtabweichung} = 10.000\quad \text{Euro} + (-3.000\quad \text{Euro}) = 7.000\quad \text{Euro}
+\]
+
+\subsection{Teilkostenrechnung/Deckungsbeitragsrechnung}
+
+Die Vollkostenrechnung verrechnet alle Kosten auf die Produkte\\
+$\rightarrow$ langfristige Preisuntergrenze\\
+Probleme: Fixe Gemeinkostenbestandteile werden wie variable Kosten behandelt
+
+In Teilkostenrechnung werden fixe Kosten nicht mehr in Erzeugnisse kalkuliert, sondern als Periodenkosten in das Betriebsergebnis eingestellt
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Bild: Portfolio
+\begin{figure}[h]
+ \begin{center}
+   \includegraphics[scale=0.5]{bilder/teilkostenrechnung.png}
+ \end{center}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Bild: Portfolio
+\begin{figure}[h]
+ \begin{center}
+   \includegraphics[scale=0.5]{bilder/deckungsbeitragsrechnung.png}
+ \end{center}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Bild: Portfolio
+\begin{figure}[h]
+ \begin{center}
+   \includegraphics[scale=0.5]{bilder/beispiel_vollteilkostenrechnung1.png}
+ \end{center}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Bild: Portfolio
+\begin{figure}[h]
+ \begin{center}
+   \includegraphics[scale=0.5]{bilder/beispiel_vollteilkostenrechnung2.png}
+ \end{center}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \end{document} 
+
