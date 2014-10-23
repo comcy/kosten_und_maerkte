@@ -3,14 +3,15 @@
 \contentsline {subsection}{\numberline {1.1}Grundbegriffe}{1}{subsection.1.1}
 \contentsline {subsection}{\numberline {1.2}Umweltanalyse}{1}{subsection.1.2}
 \contentsline {subsection}{\numberline {1.3}Unternehmensanalyse}{2}{subsection.1.3}
-\contentsline {subsection}{\numberline {1.4}Strategische Optionen}{3}{subsection.1.4}
-\contentsline {subsection}{\numberline {1.5}Strategische Wahl}{5}{subsection.1.5}
-\contentsline {subsection}{\numberline {1.6}Strategieimplementation}{6}{subsection.1.6}
-\contentsline {subsection}{\numberline {1.7}Strategische Kontrolle}{7}{subsection.1.7}
+\contentsline {subsection}{\numberline {1.4}Strategische Optionen}{4}{subsection.1.4}
+\contentsline {subsection}{\numberline {1.5}Strategische Wahl}{6}{subsection.1.5}
+\contentsline {subsection}{\numberline {1.6}Strategieimplementation}{7}{subsection.1.6}
+\contentsline {subsection}{\numberline {1.7}Strategische Kontrolle}{8}{subsection.1.7}
 \contentsline {subsection}{\numberline {1.8}Zusammenh\IeC {\"a}nge der strategischen und operativen Planung}{8}{subsection.1.8}
 \contentsline {section}{\numberline {2}Absatz}{9}{section.2}
 \contentsline {subsection}{\numberline {2.1}Grundlagen}{9}{subsection.2.1}
 \contentsline {subsection}{\numberline {2.2}Marktforschung}{10}{subsection.2.2}
+<<<<<<< HEAD
 \contentsline {subsection}{\numberline {2.3}Instrumente}{12}{subsection.2.3}
 \contentsline {subsubsection}{\numberline {2.3.1}Produktpolitik}{12}{subsubsection.2.3.1}
 \contentsline {subsubsection}{\numberline {2.3.2}Preispolitik}{13}{subsubsection.2.3.2}
@@ -22,3 +23,12 @@
 \contentsline {subsection}{\numberline {3.3}Kostenstellenrechnung}{25}{subsection.3.3}
 \contentsline {subsection}{\numberline {3.4}Kostentr\IeC {\"a}gerrechnung (Vollkostenkalkulation)}{30}{subsection.3.4}
 \contentsline {subsection}{\numberline {3.5}Teilkostenrechnung/Deckungsbeitragsrechnung}{34}{subsection.3.5}
+=======
+\contentsline {subsection}{\numberline {2.3}Instrumente}{11}{subsection.2.3}
+\contentsline {section}{\numberline {3}Kosten- und Erfolgscontrolling}{19}{section.3}
+\contentsline {subsection}{\numberline {3.1}Grundlagen und Grundbegriffe}{19}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Kostenartenrechnung}{21}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Kostenstellenrechnung}{24}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Kostentr\IeC {\"a}gerrechnung (Vollkostenkalkulation)}{28}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Teilkostenrechnung/Deckungsbeitragsrechnung}{32}{subsection.3.5}
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.4.24)  29 JUN 2014 01:11
+=======
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.5.1)  5 JUL 2014 16:27
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1183,16 +1187,28 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 130.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 145.
+(Font)              <9> on input line 143.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 145.
+(Font)              <5> on input line 143.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 145.
-LaTeX Font Info:    Try loading font information for T1+pcr on input line 147.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 143.
 
+<bilder/pffmodel.jpg, id=122, 501.875pt x 384.43625pt>
+File: bilder/pffmodel.jpg Graphic file (type jpg)
+
+<use bilder/pffmodel.jpg>
+Package pdftex.def Info: bilder/pffmodel.jpg used on input line 149.
+(pdftex.def)             Requested size: 200.74643pt x 153.77177pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<<<<<<< HEAD
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
+=======
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
@@ -1211,10 +1227,9 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.153 		\item K
-               onjunkturentwicklung, Wechselkurse, Entwicklung des Arbeitsma...
-[1]
-Overfull \hbox (3.09833pt too wide) in paragraph at lines 153--154
+l.153 \newpage
+               [1]
+Overfull \hbox (3.09833pt too wide) in paragraph at lines 159--160
 []\T1/ptm/m/n/10.95 Konjunkturentwicklung, Wech-sel-kur-se, Ent-wick-lung des A
 r-beits-mark-tes, wirt-schaft-li-che Ent-
  []
@@ -1224,16 +1239,34 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 177.
 
-Overfull \hbox (5.67026pt too wide) in paragraph at lines 184--188
-$\OMS/lmsy/m/n/10.95 !$ \T1/ptm/m/n/10.95 bei-de Sicht-wei-sen er-ge-ben \T1/pt
-m/b/n/10.95 Po-ten-tia-le und Wett-be-werbs-vor-tei-le\T1/ptm/m/n/10.95 (Vgl. W
-ert-ket-te nach \T1/ptm/m/it/10.95 Por-ter\T1/ptm/m/n/10.95 ) \T1/pcr/m/n/10.95
- GRAFIK 
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.194 
+       [2 <C:/Users/cy/Workspace/Kosten und Märkte/kosten_und_maerkte/bilder/p
+ffmodel.jpg>] <bilder/Wertkette.jpg, id=144, 651.93562pt x 331.99031pt>
+File: bilder/Wertkette.jpg Graphic file (type jpg)
+
+<use bilder/Wertkette.jpg>
+Package pdftex.def Info: bilder/Wertkette.jpg used on input line 199.
+(pdftex.def)             Requested size: 195.58218pt x 99.59785pt.
+
+Overfull \hbox (11.43379pt too wide) in paragraph at lines 210--210
+[]\T1/ptm/m/n/10 Monopolstellung 
  []
 
 
-Overfull \hbox (11.43379pt too wide) in paragraph at lines 195--195
-[]\T1/ptm/m/n/10 Monopolstellung 
+LaTeX Warning: Marginpar on page 3 moved.
+
+
+Overfull \hbox (1.97371pt too wide) in paragraph at lines 246--246
+[]\T1/ptm/m/n/10 Nischenmarkt: 
  []
 
 
@@ -1242,6 +1275,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
+<<<<<<< HEAD
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 206.
 Package babel Info: Redefining ngerman shorthand "~
@@ -1267,22 +1301,47 @@ Overfull \hbox (1.97371pt too wide) in paragraph at lines 232--232
  []
 
 <bilder/strategische_optionen.png, id=169, 912.40875pt x 564.1075pt>
+=======
+pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.252 \end{enumerate}
+                      [3 <C:/Users/cy/Workspace/Kosten und Märkte/kosten_und_m
+aerkte/bilder/Wertkette.jpg>]
+<bilder/strategische_optionen.png, id=153, 912.40875pt x 564.1075pt>
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 File: bilder/strategische_optionen.png Graphic file (type png)
 
 <use bilder/strategische_optionen.png>
-Package pdftex.def Info: bilder/strategische_optionen.png used on input line 24
-4.
+Package pdftex.def Info: bilder/strategische_optionen.png used on input line 25
+8.
 (pdftex.def)             Requested size: 273.72473pt x 169.23355pt.
 
+<<<<<<< HEAD
 <bilder/diversifikation.png, id=171, 936.49875pt x 367.3725pt>
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 266--268
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 269--270
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--271
+
+ []
+
+<bilder/diversifikation.png, id=155, 936.49875pt x 367.3725pt>
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 File: bilder/diversifikation.png Graphic file (type png)
 
 <use bilder/diversifikation.png>
-Package pdftex.def Info: bilder/diversifikation.png used on input line 257.
+Package pdftex.def Info: bilder/diversifikation.png used on input line 277.
 (pdftex.def)             Requested size: 280.95178pt x 110.21259pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1290,6 +1349,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
+<<<<<<< HEAD
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 261.
 Package babel Info: Redefining ngerman shorthand "~
@@ -1310,31 +1370,42 @@ d kei-ne An-tei-le am Markt (Por-ter: ^^Rnicht wach-sen-der Markt^^P)
  []
 
 <bilder/portfolio.png, id=185, 638.385pt x 574.145pt>
+=======
+pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.281 \newpage
+               [4 <C:/Users/cy/Workspace/Kosten und Märkte/kosten_und_maerkte/
+bilder/strategische_optionen.png> <C:/Users/cy/Workspace/Kosten und Märkte/kos
+ten_und_maerkte/bilder/diversifikation.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 285--286
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 286--287
+
+ []
+
+<bilder/portfolio.png, id=164, 638.385pt x 574.145pt>
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 File: bilder/portfolio.png Graphic file (type png)
 
 <use bilder/portfolio.png>
-Package pdftex.def Info: bilder/portfolio.png used on input line 274.
+Package pdftex.def Info: bilder/portfolio.png used on input line 294.
 (pdftex.def)             Requested size: 191.51697pt x 172.24483pt.
 
+<<<<<<< HEAD
 <bilder/portfolio_ext.png, id=186, 885.3075pt x 636.3775pt>
+=======
+<bilder/portfolio_ext.png, id=165, 885.3075pt x 636.3775pt>
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 File: bilder/portfolio_ext.png Graphic file (type png)
 
 <use bilder/portfolio_ext.png>
-Package pdftex.def Info: bilder/portfolio_ext.png used on input line 285.
+Package pdftex.def Info: bilder/portfolio_ext.png used on input line 305.
 (pdftex.def)             Requested size: 265.5943pt x 190.91472pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Overfull \hbox (10.85347pt too wide) in paragraph at lines 302--302
-[]\T1/ptm/m/n/10 Steuern/Gesetzte 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 303--305
-
- []
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1342,6 +1413,22 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
+[5 <C:/Users/cy/Workspace/Kosten und Märkte/kosten_und_maerkte/bilder/portfoli
+o.png> <C:/Users/cy/Workspace/Kosten und Märkte/kosten_und_maerkte/bilder/port
+folio_ext.png>]
+Overfull \hbox (10.85347pt too wide) in paragraph at lines 314--314
+[]\T1/ptm/m/n/10 Steuern/Gesetzte 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 316--317
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--323
+
+<<<<<<< HEAD
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 307.
 Package babel Info: Redefining ngerman shorthand "~
@@ -1360,6 +1447,8 @@ der/diversifikation.png> <./bilder/portfolio.png>]
 Overfull \hbox (3.24992pt too wide) in paragraph at lines 311--312
 \T1/ptm/m/n/10.95 �bergreifendes Qua-li-fi-ka-ti-ons-po-ten-ti-al, wel-ches in 
 ver-schie-de-nen Ge-sch�fts-fel-dern den Auf-bau von Wett-
+=======
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
  []
 
 Package babel Info: Redefining ngerman shorthand "|
@@ -1372,6 +1461,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
+<<<<<<< HEAD
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 332.
 Package babel Info: Redefining ngerman shorthand "~
@@ -1382,10 +1472,15 @@ Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 332.
 [5 <./bilder/portfolio_ext.png>]
 <bilder/strategische_einflussfaktoren.png, id=200, 1005.7575pt x 541.02126pt>
+=======
+[6]
+<bilder/strategische_einflussfaktoren.png, id=176, 1005.7575pt x 541.02126pt>
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 File: bilder/strategische_einflussfaktoren.png Graphic file (type png)
 
 <use bilder/strategische_einflussfaktoren.png>
 Package pdftex.def Info: bilder/strategische_einflussfaktoren.png used on input
+<<<<<<< HEAD
  line 339.
 (pdftex.def)             Requested size: 301.72958pt x 162.30762pt.
 Package babel Info: Redefining ngerman shorthand "|
@@ -1394,30 +1489,42 @@ Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 344.
 
 <bilder/strategische_balancedscorecard.png, id=201, 861.2175pt x 519.9425pt>
+=======
+ line 356.
+(pdftex.def)             Requested size: 201.14793pt x 108.20233pt.
+
+Overfull \hbox (5.05598pt too wide) in paragraph at lines 363--364
+[]\T1/ptm/b/n/10.95 Strategische Ma�-nah-men \T1/ptm/m/it/10.95 struc-ture fol
+-lows stra-t-egy (Kon-tin-genz-theo-re-thi-scher Aus-gangs-punkt) 
+ []
+
+<bilder/strategische_balancedscorecard.png, id=177, 861.2175pt x 519.9425pt>
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 File: bilder/strategische_balancedscorecard.png Graphic file (type png)
 
 <use bilder/strategische_balancedscorecard.png>
 Package pdftex.def Info: bilder/strategische_balancedscorecard.png used on inpu
-t line 367.
-(pdftex.def)             Requested size: 258.36723pt x 155.98395pt.
+t line 387.
+(pdftex.def)             Requested size: 172.24045pt x 103.98665pt.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
+<<<<<<< HEAD
 <bilder/strategische_balancedscorecard2.png, id=202, 950.55125pt x 448.67625pt>
+=======
+<bilder/strategische_balancedscorecard2.png, id=178, 950.55125pt x 448.67625pt>
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 File: bilder/strategische_balancedscorecard2.png Graphic file (type png)
 <use bilder/strategische_balancedscorecard2.png>
 Package pdftex.def Info: bilder/strategische_balancedscorecard2.png used on inp
-ut line 376.
-(pdftex.def)             Requested size: 285.16757pt x 134.60391pt.
+ut line 396.
+(pdftex.def)             Requested size: 190.10687pt x 89.73366pt.
 
+<bilder/strategische_kontrolle1.png, id=179, 768.8725pt x 445.665pt>
+File: bilder/strategische_kontrolle1.png Graphic file (type png)
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Underfull \vbox (badness 1237) has occurred while \output is active []
-
+<use bilder/strategische_kontrolle1.png>
+Package pdftex.def Info: bilder/strategische_kontrolle1.png used on input line 
+407.
+(pdftex.def)             Requested size: 153.77177pt x 89.13141pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1425,6 +1532,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
+<<<<<<< HEAD
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 392.
 Package babel Info: Redefining ngerman shorthand "~
@@ -1451,22 +1559,21 @@ Package pdftex.def Info: bilder/strategische_kontrolle1.png used on input line
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 <bilder/strategische_kontrolle2.png, id=213, 845.1575pt x 359.3425pt>
+=======
+[7 <C:/Users/cy/Workspace/Kosten und Märkte/kosten_und_maerkte/bilder/strategi
+sche_einflussfaktoren.png> <C:/Users/cy/Workspace/Kosten und Märkte/kosten_und
+_maerkte/bilder/strategische_balancedscorecard.png> <C:/Users/cy/Workspace/Kost
+en und Märkte/kosten_und_maerkte/bilder/strategische_balancedscorecard2.png>]
+<bilder/strategische_kontrolle2.png, id=187, 845.1575pt x 359.3425pt>
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 File: bilder/strategische_kontrolle2.png Graphic file (type png)
 
 <use bilder/strategische_kontrolle2.png>
 Package pdftex.def Info: bilder/strategische_kontrolle2.png used on input line 
-412.
-(pdftex.def)             Requested size: 253.54921pt x 107.80357pt.
+416.
+(pdftex.def)             Requested size: 169.0285pt x 71.86722pt.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
+<<<<<<< HEAD
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 416.
 Package babel Info: Redefining ngerman shorthand "~
@@ -1483,11 +1590,14 @@ Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 418.
 
 <bilder/zusammenhang_strop.png, id=222, 993.7125pt x 578.16pt>
+=======
+<bilder/zusammenhang_strop.png, id=188, 993.7125pt x 578.16pt>
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 File: bilder/zusammenhang_strop.png Graphic file (type png)
 
 <use bilder/zusammenhang_strop.png>
-Package pdftex.def Info: bilder/zusammenhang_strop.png used on input line 423.
-(pdftex.def)             Requested size: 298.11604pt x 173.44933pt.
+Package pdftex.def Info: bilder/zusammenhang_strop.png used on input line 426.
+(pdftex.def)             Requested size: 198.73897pt x 115.62994pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1495,6 +1605,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
+<<<<<<< HEAD
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 431.
 Package babel Info: Redefining ngerman shorthand "~
@@ -1515,25 +1626,38 @@ Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 434.
 
 <bilder/servicegrad.png, id=230, 522.95375pt x 286.06876pt>
+=======
+[8 <C:/Users/cy/Workspace/Kosten und Märkte/kosten_und_maerkte/bilder/strategi
+sche_kontrolle1.png> <C:/Users/cy/Workspace/Kosten und Märkte/kosten_und_maerk
+te/bilder/strategische_kontrolle2.png> <C:/Users/cy/Workspace/Kosten und Märkt
+e/kosten_und_maerkte/bilder/zusammenhang_strop.png>]
+<bilder/servicegrad.png, id=196, 522.95375pt x 286.06876pt>
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 File: bilder/servicegrad.png Graphic file (type png)
 
 <use bilder/servicegrad.png>
-Package pdftex.def Info: bilder/servicegrad.png used on input line 455.
+Package pdftex.def Info: bilder/servicegrad.png used on input line 448.
 (pdftex.def)             Requested size: 156.88733pt x 85.82129pt.
 
+<<<<<<< HEAD
 <bilder/marketingstrategien.png, id=231, 589.20125pt x 325.215pt>
+=======
+<bilder/marketingstrategien.png, id=197, 589.20125pt x 325.215pt>
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 File: bilder/marketingstrategien.png Graphic file (type png)
 
 <use bilder/marketingstrategien.png>
-Package pdftex.def Info: bilder/marketingstrategien.png used on input line 476.
+Package pdftex.def Info: bilder/marketingstrategien.png used on input line 469.
 
 (pdftex.def)             Requested size: 176.76173pt x 97.56525pt.
 
+Overfull \hbox (20.67325pt too wide) in paragraph at lines 474--476
+\T1/ptm/m/n/10.95 Erh�hung der Pro-dukt-ver-wen-dung bei be-ste-hen-den Kun-den
+, Ge-win-nung von Neukunden/nicht-Verwendern 
+ []
 
-LaTeX Warning: `h' float specifier changed to `ht'.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 481--485
+Underfull \hbox (badness 10000) in paragraph at lines 474--476
 
  []
 
@@ -1543,6 +1667,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
+<<<<<<< HEAD
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 488.
 Package babel Info: Redefining ngerman shorthand "~
@@ -1553,6 +1678,12 @@ Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 488.
 [9 <./bilder/servicegrad.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 495--499
+=======
+[9 <C:/Users/cy/Workspace/Kosten und Märkte/kosten_und_maerkte/bilder/serviceg
+rad.png> <C:/Users/cy/Workspace/Kosten und Märkte/kosten_und_maerkte/bilder/ma
+rketingstrategien.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 486--490
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 
  []
 
@@ -1561,11 +1692,18 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 500.
 
+Overfull \hbox (3.60109pt too wide) in paragraph at lines 524--525
+[]\T1/ptm/m/n/10.95 Kausalanalytisch (Zu-sam-men-h�n-ge zwi-schen Markt-ge-ge-b
+en-hei-ten, z.B. Wir-kung der Ver-pa-ckungs-
+ []
+
+
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
+<<<<<<< HEAD
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 531.
 Package babel Info: Redefining ngerman shorthand "~
@@ -1581,11 +1719,25 @@ en-hei-ten, z.B. Wir-kung der Ver-pa-ckungs-
  []
 
 <bilder/methoden.png, id=246, 660.4675pt x 157.58875pt>
+=======
+[10] <bilder/methoden.png, id=212, 660.4675pt x 157.58875pt>
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 File: bilder/methoden.png Graphic file (type png)
 
 <use bilder/methoden.png>
-Package pdftex.def Info: bilder/methoden.png used on input line 555.
+Package pdftex.def Info: bilder/methoden.png used on input line 542.
 (pdftex.def)             Requested size: 198.14177pt x 47.27698pt.
+
+<bilder/instrumente_produktpolitik.png, id=213, 672.5125pt x 455.7025pt>
+File: bilder/instrumente_produktpolitik.png Graphic file (type png)
+
+<use bilder/instrumente_produktpolitik.png>
+Package pdftex.def Info: bilder/instrumente_produktpolitik.png used on input li
+ne 577.
+(pdftex.def)             Requested size: 201.7553pt x 136.71179pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1593,6 +1745,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
+<<<<<<< HEAD
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 579.
 Package babel Info: Redefining ngerman shorthand "~
@@ -1624,10 +1777,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 604--605
  []
 
 <bilder/wertanalyse.png, id=255, 647.41875pt x 493.845pt>
+=======
+[11 <C:/Users/cy/Workspace/Kosten und Märkte/kosten_und_maerkte/bilder/methode
+n.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 593--594
+
+ []
+
+<bilder/wertanalyse.png, id=221, 647.41875pt x 493.845pt>
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 File: bilder/wertanalyse.png Graphic file (type png)
 
 <use bilder/wertanalyse.png>
-Package pdftex.def Info: bilder/wertanalyse.png used on input line 625.
+Package pdftex.def Info: bilder/wertanalyse.png used on input line 614.
 (pdftex.def)             Requested size: 194.22711pt x 148.15463pt.
 
 
@@ -1636,6 +1798,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
+<<<<<<< HEAD
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 629.
 Package babel Info: Redefining ngerman shorthand "~
@@ -1651,15 +1814,18 @@ Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 638.
 
 <bilder/kostenorientierte_preispolitik.png, id=261, 517.935pt x 390.45876pt>
+=======
+[12 <C:/Users/cy/Workspace/Kosten und Märkte/kosten_und_maerkte/bilder/instrum
+ente_produktpolitik.png> <C:/Users/cy/Workspace/Kosten und Märkte/kosten_und_m
+aerkte/bilder/wertanalyse.png>]
+<bilder/kostenorientierte_preispolitik.png, id=228, 517.935pt x 390.45876pt>
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 File: bilder/kostenorientierte_preispolitik.png Graphic file (type png)
 
 <use bilder/kostenorientierte_preispolitik.png>
 Package pdftex.def Info: bilder/kostenorientierte_preispolitik.png used on inpu
-t line 661.
+t line 652.
 (pdftex.def)             Requested size: 155.38168pt x 117.13852pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1667,6 +1833,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
+<<<<<<< HEAD
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 665.
 Package babel Info: Redefining ngerman shorthand "~
@@ -1677,21 +1844,35 @@ Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 665.
 [13 <./bilder/wertanalyse.png>]
 <bilder/kostenorientierte_preispolitik2.png, id=267, 632.3625pt x 390.45876pt>
+=======
+[13 <C:/Users/cy/Workspace/Kosten und Märkte/kosten_und_maerkte/bilder/kosteno
+rientierte_preispolitik.png>]
+<bilder/kostenorientierte_preispolitik2.png, id=235, 632.3625pt x 390.45876pt>
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 File: bilder/kostenorientierte_preispolitik2.png Graphic file (type png)
 
 <use bilder/kostenorientierte_preispolitik2.png>
 Package pdftex.def Info: bilder/kostenorientierte_preispolitik2.png used on inp
-ut line 672.
+ut line 663.
 (pdftex.def)             Requested size: 189.7102pt x 117.13852pt.
 
+<<<<<<< HEAD
 <bilder/preisgestaltung.png, id=268, 936.49875pt x 430.60875pt>
+=======
+<bilder/preisgestaltung.png, id=236, 936.49875pt x 430.60875pt>
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 File: bilder/preisgestaltung.png Graphic file (type png)
 
 <use bilder/preisgestaltung.png>
-Package pdftex.def Info: bilder/preisgestaltung.png used on input line 691.
+Package pdftex.def Info: bilder/preisgestaltung.png used on input line 682.
 (pdftex.def)             Requested size: 280.95178pt x 129.18361pt.
 
+Overfull \hbox (0.16011pt too wide) in paragraph at lines 707--708
+\T1/ptm/m/it/10.95 Ist die grund-s�tz-li-che Ge-stal-tung des ver-wen-der-be-zo
+-ge-nen Ver-triebs-kon-zepts bei de-zen-tra-li-sier-ter Markt-
+ []
 
+<<<<<<< HEAD
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
@@ -1712,12 +1893,15 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 715.
 
+=======
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
+<<<<<<< HEAD
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 747.
 Package babel Info: Redefining ngerman shorthand "~
@@ -1728,12 +1912,18 @@ Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 747.
 [15]
 <bilder/betriebsformen_einzelhandel.png, id=281, 1049.9225pt x 632.3625pt>
+=======
+[14 <C:/Users/cy/Workspace/Kosten und Märkte/kosten_und_maerkte/bilder/kosteno
+rientierte_preispolitik2.png> <C:/Users/cy/Workspace/Kosten und Märkte/kosten_
+und_maerkte/bilder/preisgestaltung.png>]
+<bilder/betriebsformen_einzelhandel.png, id=243, 1049.9225pt x 632.3625pt>
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 File: bilder/betriebsformen_einzelhandel.png Graphic file (type png)
 
 <use bilder/betriebsformen_einzelhandel.png>
 Package pdftex.def Info: bilder/betriebsformen_einzelhandel.png used on input l
-ine 755.
-(pdftex.def)             Requested size: 314.97917pt x 189.7102pt.
+ine 748.
+(pdftex.def)             Requested size: 209.98077pt x 126.47026pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1741,6 +1931,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
+<<<<<<< HEAD
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 760.
 Package babel Info: Redefining ngerman shorthand "~
@@ -1751,18 +1942,32 @@ Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 760.
 [16 <./bilder/betriebsformen_einzelhandel.png>]
 <bilder/absatzwege.png, id=287, 1000.73875pt x 525.965pt>
+=======
+[15 <C:/Users/cy/Workspace/Kosten und Märkte/kosten_und_maerkte/bilder/betrieb
+sformen_einzelhandel.png>]
+<bilder/absatzwege.png, id=251, 1000.73875pt x 525.965pt>
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 File: bilder/absatzwege.png Graphic file (type png)
 
 <use bilder/absatzwege.png>
-Package pdftex.def Info: bilder/absatzwege.png used on input line 766.
-(pdftex.def)             Requested size: 300.22394pt x 157.79071pt.
+Package pdftex.def Info: bilder/absatzwege.png used on input line 758.
+(pdftex.def)             Requested size: 200.14421pt x 105.19113pt.
 
+<<<<<<< HEAD
 <bilder/sortimentsfunktion.png, id=288, 1059.96pt x 629.35126pt>
+=======
+<bilder/sortimentsfunktion.png, id=252, 1059.96pt x 629.35126pt>
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 File: bilder/sortimentsfunktion.png Graphic file (type png)
 
 <use bilder/sortimentsfunktion.png>
-Package pdftex.def Info: bilder/sortimentsfunktion.png used on input line 776.
-(pdftex.def)             Requested size: 317.99045pt x 188.80682pt.
+Package pdftex.def Info: bilder/sortimentsfunktion.png used on input line 768.
+(pdftex.def)             Requested size: 211.98824pt x 125.86801pt.
+
+Overfull \hbox (3.45802pt too wide) in paragraph at lines 775--776
+[]\T1/ptm/m/n/10.95 Bindung der Einkaufs- und La-ger-hal-tungs-po-li-tik (Ab-ne
+h-mer ver-pflich-tet sich be-stimm-te Men-
+ []
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1770,6 +1975,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
+<<<<<<< HEAD
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 780.
 Package babel Info: Redefining ngerman shorthand "~
@@ -1785,6 +1991,17 @@ Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 794.
 
 Underfull \hbox (badness 10000) in paragraph at lines 799--801
+=======
+[16 <C:/Users/cy/Workspace/Kosten und Märkte/kosten_und_maerkte/bilder/absatzw
+ege.png> <C:/Users/cy/Workspace/Kosten und Märkte/kosten_und_maerkte/bilder/so
+rtimentsfunktion.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 792--794
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 826--830
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 
  []
 
@@ -1794,6 +2011,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
+<<<<<<< HEAD
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 826.
 Package babel Info: Redefining ngerman shorthand "~
@@ -1807,12 +2025,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 832--836
 
  []
 
+=======
+[17]
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
+<<<<<<< HEAD
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 846.
 Package babel Info: Redefining ngerman shorthand "~
@@ -1831,17 +2053,24 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 849.
  <bilder/kostenrechnung.png, id=303, 662.475pt x 341.275pt>
+=======
+[18] <bilder/kostenrechnung.png, id=268, 662.475pt x 341.275pt>
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 File: bilder/kostenrechnung.png Graphic file (type png)
 
 <use bilder/kostenrechnung.png>
-Package pdftex.def Info: bilder/kostenrechnung.png used on input line 879.
+Package pdftex.def Info: bilder/kostenrechnung.png used on input line 874.
 (pdftex.def)             Requested size: 198.74403pt x 102.38329pt.
 
+<<<<<<< HEAD
 <bilder/leistungsprogramm.png, id=304, 904.37875pt x 602.25pt>
+=======
+<bilder/leistungsprogramm.png, id=269, 904.37875pt x 602.25pt>
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 File: bilder/leistungsprogramm.png Graphic file (type png)
 
 <use bilder/leistungsprogramm.png>
-Package pdftex.def Info: bilder/leistungsprogramm.png used on input line 894.
+Package pdftex.def Info: bilder/leistungsprogramm.png used on input line 889.
 (pdftex.def)             Requested size: 271.31572pt x 180.67639pt.
 
 
@@ -1853,6 +2082,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
+<<<<<<< HEAD
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 904.
 Package babel Info: Redefining ngerman shorthand "~
@@ -1863,10 +2093,15 @@ Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 904.
 [20 <./bilder/kostenrechnung.png>]
 <bilder/leistungsprogramm2.png, id=313, 900.36375pt x 545.03625pt>
+=======
+[19 <C:/Users/cy/Workspace/Kosten und Märkte/kosten_und_maerkte/bilder/kostenr
+echnung.png>]
+<bilder/leistungsprogramm2.png, id=278, 900.36375pt x 545.03625pt>
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 File: bilder/leistungsprogramm2.png Graphic file (type png)
 
 <use bilder/leistungsprogramm2.png>
-Package pdftex.def Info: bilder/leistungsprogramm2.png used on input line 925.
+Package pdftex.def Info: bilder/leistungsprogramm2.png used on input line 920.
 (pdftex.def)             Requested size: 270.1112pt x 163.51213pt.
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 930.
@@ -1879,6 +2114,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
+<<<<<<< HEAD
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 936.
 Package babel Info: Redefining ngerman shorthand "~
@@ -1889,22 +2125,32 @@ Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 936.
 [21 <./bilder/leistungsprogramm.png> <./bilder/leistungsprogramm2.png>]
 <bilder/primaerkosten.png, id=323, 763.85374pt x 444.66125pt>
+=======
+[20 <C:/Users/cy/Workspace/Kosten und Märkte/kosten_und_maerkte/bilder/leistun
+gsprogramm.png> <C:/Users/cy/Workspace/Kosten und Märkte/kosten_und_maerkte/bi
+lder/leistungsprogramm2.png>]
+<bilder/primaerkosten.png, id=286, 763.85374pt x 444.66125pt>
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 File: bilder/primaerkosten.png Graphic file (type png)
 
 <use bilder/primaerkosten.png>
-Package pdftex.def Info: bilder/primaerkosten.png used on input line 952.
+Package pdftex.def Info: bilder/primaerkosten.png used on input line 947.
 (pdftex.def)             Requested size: 229.15788pt x 133.3994pt.
 
-Overfull \hbox (57.32085pt too wide) in paragraph at lines 961--962
+Overfull \hbox (57.32085pt too wide) in paragraph at lines 956--957
 []\T1/ptm/m/n/10.95 Fixkosten (un-ab-h�n-gig von der H�-he der Be-sch�f-ti-gung
 , Auf-recht-er-hal-tung der Betriebs-/Leistungsbereitschaft) 
  []
 
+<<<<<<< HEAD
 <bilder/zshkosten.png, id=324, 832.10875pt x 135.50626pt>
+=======
+<bilder/zshkosten.png, id=287, 832.10875pt x 135.50626pt>
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 File: bilder/zshkosten.png Graphic file (type png)
 
 <use bilder/zshkosten.png>
-Package pdftex.def Info: bilder/zshkosten.png used on input line 972.
+Package pdftex.def Info: bilder/zshkosten.png used on input line 967.
 (pdftex.def)             Requested size: 249.63455pt x 40.65218pt.
 
 
@@ -1913,6 +2159,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
+<<<<<<< HEAD
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 976.
 Package babel Info: Redefining ngerman shorthand "~
@@ -1923,20 +2170,29 @@ Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 976.
 [22 <./bilder/primaerkosten.png> <./bilder/zshkosten.png>]
 <bilder/personalkosten.png, id=332, 776.9025pt x 412.54124pt>
+=======
+[21 <C:/Users/cy/Workspace/Kosten und Märkte/kosten_und_maerkte/bilder/primaer
+kosten.png> <C:/Users/cy/Workspace/Kosten und Märkte/kosten_und_maerkte/bilder
+/zshkosten.png>] <bilder/personalkosten.png, id=296, 776.9025pt x 412.54124pt>
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 File: bilder/personalkosten.png Graphic file (type png)
 
 <use bilder/personalkosten.png>
-Package pdftex.def Info: bilder/personalkosten.png used on input line 984.
+Package pdftex.def Info: bilder/personalkosten.png used on input line 979.
 (pdftex.def)             Requested size: 233.07254pt x 123.76332pt.
 
+<<<<<<< HEAD
 <bilder/materialkosten.png, id=333, 777.90625pt x 426.59375pt>
+=======
+<bilder/materialkosten.png, id=297, 777.90625pt x 426.59375pt>
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 File: bilder/materialkosten.png Graphic file (type png)
 
 <use bilder/materialkosten.png>
-Package pdftex.def Info: bilder/materialkosten.png used on input line 995.
+Package pdftex.def Info: bilder/materialkosten.png used on input line 990.
 (pdftex.def)             Requested size: 233.37367pt x 127.97911pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1006--1013
+Underfull \hbox (badness 10000) in paragraph at lines 1001--1008
 
  []
 
@@ -1946,6 +2202,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
+<<<<<<< HEAD
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1024.
 Package babel Info: Redefining ngerman shorthand "~
@@ -1956,6 +2213,12 @@ Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1024.
 [23 <./bilder/personalkosten.png> <./bilder/materialkosten.png>]
 Overfull \hbox (72.00378pt too wide) in paragraph at lines 1026--1027
+=======
+[22 <C:/Users/cy/Workspace/Kosten und Märkte/kosten_und_maerkte/bilder/persona
+lkosten.png> <C:/Users/cy/Workspace/Kosten und Märkte/kosten_und_maerkte/bilde
+r/materialkosten.png>]
+Overfull \hbox (72.00378pt too wide) in paragraph at lines 1021--1022
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 []\T1/ptm/m/n/10.95 Substanzerhaltung ist Ba-sis f�r Ab-schrei-bung (in Kos-ten
 -rech-nung Wiederbeschaffungs-/Wiederherstellungskosten) 
  []
@@ -1970,6 +2233,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
+<<<<<<< HEAD
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1071.
 Package babel Info: Redefining ngerman shorthand "~
@@ -1980,11 +2244,19 @@ Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1071.
 [24]
 <bilder/kostenstellenrechnung_ueberblick.png, id=347, 736.7525pt x 405.515pt>
+=======
+[23]
+<bilder/kostenstellenrechnung_ueberblick.png, id=311, 736.7525pt x 405.515pt>
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 File: bilder/kostenstellenrechnung_ueberblick.png Graphic file (type png)
 
 <use bilder/kostenstellenrechnung_ueberblick.png>
 Package pdftex.def Info: bilder/kostenstellenrechnung_ueberblick.png used on in
+<<<<<<< HEAD
 put line 1081.
+=======
+put line 1076.
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 (pdftex.def)             Requested size: 368.37535pt x 202.75699pt.
 
 
@@ -1993,6 +2265,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
+<<<<<<< HEAD
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1096.
 Package babel Info: Redefining ngerman shorthand "~
@@ -2020,6 +2293,28 @@ Package pdftex.def Info: bilder/gemeinkosten.png used on input line 1112.
 File: bilder/bab.png Graphic file (type png)
  <use bilder/bab.png>
 Package pdftex.def Info: bilder/bab.png used on input line 1123.
+=======
+[24 <C:/Users/cy/Workspace/Kosten und Märkte/kosten_und_maerkte/bilder/kostens
+tellenrechnung_ueberblick.png>]
+<bilder/kostenstellenplan.png, id=321, 717.68124pt x 278.03876pt>
+File: bilder/kostenstellenplan.png Graphic file (type png)
+
+<use bilder/kostenstellenplan.png>
+Package pdftex.def Info: bilder/kostenstellenplan.png used on input line 1098.
+(pdftex.def)             Requested size: 358.83974pt x 139.01903pt.
+
+<bilder/gemeinkosten.png, id=322, 563.10374pt x 526.96875pt>
+File: bilder/gemeinkosten.png Graphic file (type png)
+
+<use bilder/gemeinkosten.png>
+Package pdftex.def Info: bilder/gemeinkosten.png used on input line 1107.
+(pdftex.def)             Requested size: 281.55118pt x 263.48372pt.
+
+<bilder/bab.png, id=323, 799.98875pt x 392.46625pt>
+File: bilder/bab.png Graphic file (type png)
+ <use bilder/bab.png>
+Package pdftex.def Info: bilder/bab.png used on input line 1118.
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 (pdftex.def)             Requested size: 399.9934pt x 196.23264pt.
 
 
@@ -2031,6 +2326,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
+<<<<<<< HEAD
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1127.
 Package babel Info: Redefining ngerman shorthand "~
@@ -2041,30 +2337,56 @@ Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1127.
 [26 <./bilder/kostenstellenplan.png> <./bilder/gemeinkosten.png>]
 <bilder/leistungsaustauschmatrix.png, id=367, 642.4pt x 109.40875pt>
+=======
+[25 <C:/Users/cy/Workspace/Kosten und Märkte/kosten_und_maerkte/bilder/kostens
+tellenplan.png> <C:/Users/cy/Workspace/Kosten und Märkte/kosten_und_maerkte/bi
+lder/gemeinkosten.png>]
+<bilder/leistungsaustauschmatrix.png, id=331, 642.4pt x 109.40875pt>
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 File: bilder/leistungsaustauschmatrix.png Graphic file (type png)
 
 <use bilder/leistungsaustauschmatrix.png>
 Package pdftex.def Info: bilder/leistungsaustauschmatrix.png used on input line
+<<<<<<< HEAD
  1148.
 (pdftex.def)             Requested size: 321.19922pt x 54.70422pt.
 
 <bilder/leistungsverechnung1.png, id=368, 738.76pt x 576.1525pt>
+=======
+ 1143.
+(pdftex.def)             Requested size: 321.19922pt x 54.70422pt.
+
+<bilder/leistungsverechnung1.png, id=332, 738.76pt x 576.1525pt>
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 File: bilder/leistungsverechnung1.png Graphic file (type png)
 
 <use bilder/leistungsverechnung1.png>
 Package pdftex.def Info: bilder/leistungsverechnung1.png used on input line 115
+<<<<<<< HEAD
 7.
 (pdftex.def)             Requested size: 443.25941pt x 345.69415pt.
+=======
+2.
+(pdftex.def)             Requested size: 369.37909pt x 288.07553pt.
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
+<<<<<<< HEAD
 <bilder/leistungsverechnung2.png, id=369, 773.89125pt x 366.36874pt>
+=======
+<bilder/leistungsverechnung2.png, id=333, 773.89125pt x 366.36874pt>
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 File: bilder/leistungsverechnung2.png Graphic file (type png)
 
 <use bilder/leistungsverechnung2.png>
 Package pdftex.def Info: bilder/leistungsverechnung2.png used on input line 116
+<<<<<<< HEAD
 6.
+=======
+1.
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 (pdftex.def)             Requested size: 386.94467pt x 183.18391pt.
 
 
@@ -2076,6 +2398,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
+<<<<<<< HEAD
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1170.
 Package babel Info: Redefining ngerman shorthand "~
@@ -2106,6 +2429,20 @@ File: bilder/zuschlagssaetze.png Graphic file (type png)
 <use bilder/zuschlagssaetze.png>
 Package pdftex.def Info: bilder/zuschlagssaetze.png used on input line 1219.
 (pdftex.def)             Requested size: 387.94843pt x 197.23639pt.
+=======
+[26 <C:/Users/cy/Workspace/Kosten und Märkte/kosten_und_maerkte/bilder/bab.png
+> <C:/Users/cy/Workspace/Kosten und Märkte/kosten_und_maerkte/bilder/leistungs
+austauschmatrix.png>]
+<bilder/zuschlagssaetze.png, id=342, 775.89874pt x 394.47375pt>
+File: bilder/zuschlagssaetze.png Graphic file (type png)
+
+<use bilder/zuschlagssaetze.png>
+Package pdftex.def Info: bilder/zuschlagssaetze.png used on input line 1213.
+(pdftex.def)             Requested size: 387.94843pt x 197.23639pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2113,6 +2450,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
+<<<<<<< HEAD
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1224.
 Package babel Info: Redefining ngerman shorthand "~
@@ -2128,29 +2466,65 @@ Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1225.
 
 <bilder/grundschema_zuschlagskalkulation.png, id=398, 790.955pt x 457.71pt>
+=======
+[27 <C:/Users/cy/Workspace/Kosten und Märkte/kosten_und_maerkte/bilder/leistun
+gsverechnung1.png>]
+<bilder/grundschema_zuschlagskalkulation.png, id=356, 790.955pt x 457.71pt>
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 File: bilder/grundschema_zuschlagskalkulation.png Graphic file (type png)
 
 <use bilder/grundschema_zuschlagskalkulation.png>
 Package pdftex.def Info: bilder/grundschema_zuschlagskalkulation.png used on in
+<<<<<<< HEAD
 put line 1233.
 (pdftex.def)             Requested size: 395.47653pt x 228.85445pt.
 
 <bilder/beispiel_zuschlagskalkulation.png, id=399, 495.8525pt x 298.11375pt>
+=======
+put line 1227.
+(pdftex.def)             Requested size: 395.47653pt x 228.85445pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<bilder/beispiel_zuschlagskalkulation.png, id=357, 495.8525pt x 298.11375pt>
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 File: bilder/beispiel_zuschlagskalkulation.png Graphic file (type png)
 
 <use bilder/beispiel_zuschlagskalkulation.png>
 Package pdftex.def Info: bilder/beispiel_zuschlagskalkulation.png used on input
+<<<<<<< HEAD
  line 1244.
 (pdftex.def)             Requested size: 297.5138pt x 178.86963pt.
 
 <bilder/beispiel_zuschlagskalkulation2.png, id=400, 497.86pt x 455.7025pt>
+=======
+ line 1238.
+(pdftex.def)             Requested size: 247.92564pt x 149.0565pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<bilder/beispiel_zuschlagskalkulation2.png, id=358, 497.86pt x 455.7025pt>
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 File: bilder/beispiel_zuschlagskalkulation2.png Graphic file (type png)
 
 <use bilder/beispiel_zuschlagskalkulation2.png>
 Package pdftex.def Info: bilder/beispiel_zuschlagskalkulation2.png used on inpu
+<<<<<<< HEAD
 t line 1253.
 (pdftex.def)             Requested size: 248.92938pt x 227.85068pt.
 
+=======
+t line 1247.
+(pdftex.def)             Requested size: 248.92938pt x 227.85068pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -2160,6 +2534,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
+<<<<<<< HEAD
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1274.
 Package babel Info: Redefining ngerman shorthand "~
@@ -2171,10 +2546,17 @@ Package babel Info: Redefining ngerman shorthand "~
 [30 <./bilder/grundschema_zuschlagskalkulation.png> <./bilder/beispiel_zuschlag
 skalkulation.png>]
 Overfull \hbox (29.15309pt too wide) detected at line 1285
+=======
+[28 <C:/Users/cy/Workspace/Kosten und Märkte/kosten_und_maerkte/bilder/leistun
+gsverechnung2.png> <C:/Users/cy/Workspace/Kosten und Märkte/kosten_und_maerkte
+/bilder/zuschlagssaetze.png>]
+Overfull \hbox (29.15309pt too wide) detected at line 1279
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 [][][] []
  []
 
 
+<<<<<<< HEAD
 <bilder/beispiel_betriebsergebnisrechnung1.png, id=409, 478.78876pt x 497.86pt>
 File: bilder/beispiel_betriebsergebnisrechnung1.png Graphic file (type png)
 <use bilder/beispiel_betriebsergebnisrechnung1.png>
@@ -2187,11 +2569,33 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 <bilder/beispiel_betriebsergebnisrechnung2.png, id=410, 516.93124pt x 548.0475p
+=======
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[29 <C:/Users/cy/Workspace/Kosten und Märkte/kosten_und_maerkte/bilder/grundsc
+hema_zuschlagskalkulation.png> <C:/Users/cy/Workspace/Kosten und Märkte/kosten
+_und_maerkte/bilder/beispiel_zuschlagskalkulation.png>]
+<bilder/beispiel_betriebsergebnisrechnung1.png, id=375, 478.78876pt x 497.86pt>
+File: bilder/beispiel_betriebsergebnisrechnung1.png Graphic file (type png)
+<use bilder/beispiel_betriebsergebnisrechnung1.png>
+Package pdftex.def Info: bilder/beispiel_betriebsergebnisrechnung1.png used on 
+input line 1290.
+(pdftex.def)             Requested size: 239.39378pt x 248.92938pt.
+
+<bilder/beispiel_betriebsergebnisrechnung2.png, id=376, 516.93124pt x 548.0475p
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 t>
 File: bilder/beispiel_betriebsergebnisrechnung2.png Graphic file (type png)
  <use bilder/beispiel_betriebsergebnisrechnung2.png>
 Package pdftex.def Info: bilder/beispiel_betriebsergebnisrechnung2.png used on 
+<<<<<<< HEAD
 input line 1305.
+=======
+input line 1299.
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 (pdftex.def)             Requested size: 258.46498pt x 274.02307pt.
 
 
@@ -2203,6 +2607,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
+<<<<<<< HEAD
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1316.
 Package babel Info: Redefining ngerman shorthand "~
@@ -2212,12 +2617,18 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1316.
 [31 <./bilder/beispiel_zuschlagskalkulation2.png>]
+=======
+[30 <C:/Users/cy/Workspace/Kosten und Märkte/kosten_und_maerkte/bilder/beispie
+l_zuschlagskalkulation2.png> <C:/Users/cy/Workspace/Kosten und Märkte/kosten_u
+nd_maerkte/bilder/beispiel_betriebsergebnisrechnung1.png>]
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
+<<<<<<< HEAD
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1350.
 Package babel Info: Redefining ngerman shorthand "~
@@ -2227,12 +2638,63 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1350.
 [32 <./bilder/beispiel_betriebsergebnisrechnung1.png>]
+=======
+[31 <C:/Users/cy/Workspace/Kosten und Märkte/kosten_und_maerkte/bilder/beispie
+l_betriebsergebnisrechnung2.png>]
+<bilder/teilkostenrechnung.png, id=394, 738.76pt x 331.2375pt>
+File: bilder/teilkostenrechnung.png Graphic file (type png)
+
+<use bilder/teilkostenrechnung.png>
+Package pdftex.def Info: bilder/teilkostenrechnung.png used on input line 1397.
+
+(pdftex.def)             Requested size: 369.37909pt x 165.61833pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<bilder/deckungsbeitragsrechnung.png, id=395, 518.93875pt x 508.90125pt>
+File: bilder/deckungsbeitragsrechnung.png Graphic file (type png)
+
+<use bilder/deckungsbeitragsrechnung.png>
+Package pdftex.def Info: bilder/deckungsbeitragsrechnung.png used on input line
+ 1406.
+(pdftex.def)             Requested size: 259.46873pt x 254.45pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+<bilder/beispiel_vollteilkostenrechnung1.png, id=396, 532.99126pt x 394.47375pt
+>
+File: bilder/beispiel_vollteilkostenrechnung1.png Graphic file (type png)
+ <use bilder/beispiel_vollteilkostenrechnung1.png>
+Package pdftex.def Info: bilder/beispiel_vollteilkostenrechnung1.png used on in
+put line 1415.
+(pdftex.def)             Requested size: 266.49498pt x 197.23639pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<bilder/beispiel_vollteilkostenrechnung2.png, id=397, 536.0025pt x 630.355pt>
+File: bilder/beispiel_vollteilkostenrechnung2.png Graphic file (type png)
+
+<use bilder/beispiel_vollteilkostenrechnung2.png>
+Package pdftex.def Info: bilder/beispiel_vollteilkostenrechnung2.png used on in
+put line 1424.
+(pdftex.def)             Requested size: 268.0006pt x 315.17673pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+dpfloat added a blank page
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
+<<<<<<< HEAD
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1387.
 Package babel Info: Redefining ngerman shorthand "~
@@ -2256,11 +2718,33 @@ Package glossaries Warning: No \printglossary or \printglossaries found.
 This document will not have a glossary.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1403.
+=======
+[32]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
+
+[33 <C:/Users/cy/Workspace/Kosten und Märkte/kosten_und_maerkte/bilder/teilkos
+tenrechnung.png> <C:/Users/cy/Workspace/Kosten und Märkte/kosten_und_maerkte/b
+ilder/deckungsbeitragsrechnung.png> <C:/Users/cy/Workspace/Kosten und Märkte/k
+osten_und_maerkte/bilder/beispiel_vollteilkostenrechnung1.png>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[34 <C:/Users/cy/Workspace/Kosten und Märkte/kosten_und_maerkte/bilder/beispie
+l_vollteilkostenrechnung2.png>]
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+<<<<<<< HEAD
 
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1403.
@@ -2305,4 +2789,46 @@ PDF statistics:
  370 compressed objects within 4 object streams
  125 named destinations out of 1000 (max. 500000)
  402 words of extra memory for PDF output out of 10000 (max. 10000000)
+=======
+
+[35
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1429.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1429.
+
+("C:\Users\cy\Workspace\Kosten und Märkte\kosten_und_maerkte\zusammenfassung.a
+ux")
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1429.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1429.
+
+Package rerunfilecheck Info: File `zusammenfassung.out' has not changed.
+(rerunfilecheck)             Checksum: 48D954F2640EBBD9A23621C4EF6EC605;1356.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1429.
+ ) 
+Here is how much of TeX's memory you used:
+ 25990 strings out of 493921
+ 454108 string characters out of 3147292
+ 576716 words of memory out of 3000000
+ 28582 multiletter control sequences out of 15000+200000
+ 67736 words of font info for 65 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 55i,12n,92p,1768b,521s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files/M
+iKTeX 2.9/fonts/enc/dvips/lm/lm-mathex.enc}{C:/Program Files/MiKTeX 2.9/fonts/e
+nc/dvips/lm/lm-mathsy.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ma
+thit.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progr
+am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files
+/MiKTeX 2.9/fonts/type1/public/lm/lmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts
+/type1/public/lm/lmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/
+lmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+urw/times/utmri8a.pfb>
+Output written on zusammenfassung.pdf (39 pages, 2480859 bytes).
+PDF statistics:
+ 478 PDF objects out of 1000 (max. 8388607)
+ 112 named destinations out of 1000 (max. 500000)
+ 400 words of extra memory for PDF output out of 10000 (max. 10000000)
+>>>>>>> e6d4c5219c69fd9ccb0b6ea814aad2a359ac800e
 
